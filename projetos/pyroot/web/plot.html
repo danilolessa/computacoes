@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <title>pyROOT</title>
+  <meta charset="utf-8">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+  <div>
+    <h1>pyROOT</h1>
+  </div>
+  <div class="btn-group btn-group-justified">
+    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#modalGeral">Configurações gerais</a>
+    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#modalGrafico">Gráficos</a>
+    <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#modalAjuste">Ajustes e resíduos</a>
+  </div>
+  <div>
+    <div>
+      <h4>Resultados do ajuste</h4>
+      <table class="table">
+        <thead>
+          <th>
+            [0]
+          </th>
+          <th>
+            [1]
+          </th>
+          <th>
+            [2]
+          </th>
+          <th>
+            chi²
+          </th>
+          <th>
+            graus de liberdade
+          </th>
+        </thead>
+        <tr>
+          <td>
+            0.1512(5)
+          </td>
+          <td>
+            0.1512(5)
+          </td>
+          <td>
+            0.1512(5)
+          </td>
+          <td>
+            141.51
+          </td>
+          <td>
+            10
+          </td>
+        </tr>
+      </table>
+    </div>
+    <div>
+      <img src="plot.png" class="img-fluid" />
+    </div>
+    <div>
+      Residuos
+    </div>
+    <div>
+      Matriz de covariancia e correlação
+    </div>
+  </div>
+
+
+
+  <!-- Modal -->
+  <div id="modalGeral" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Configurações gerais</h4>
+        </div>
+        <div class="modal-body">
+          <p>Some text in the modal.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div id="modalGrafico" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Gráficos</h4>
+        </div>
+        <div class="modal-body">
+          <p>Some text in the modal.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div id="modalAjuste" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Ajuste e residuos</h4>
+        </div>
+        <div class="modal-body">
+          <p>Some text in the modal.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Ok</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+
+</html>

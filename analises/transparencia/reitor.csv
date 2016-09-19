@@ -1,0 +1,35 @@
+,nome,unidade,depto,jornada,categoria,classe,ref,func,func_estr,tempo,parcelas,salario,salario_liq
+61,Adalci da Silva Alves,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 3,A,Secretário,Assistente Técnico de Gabinete I,30,14251.58,11543.65,20361.21
+491,Ailson Fabricio,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 2,A,Motorista,Motorista de Gabinete,11,0.0,3427.63,2973.28
+512,Ailton Rodrigues Bruno,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 3,A,Tec Assuntos Administrativos,Assistente Técnico de Gabinete I,28,0.0,11099.67,8824.01
+1434,Ana Glauce Bispo dos Santos Silva,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 2,A,Cozinheiro,Oficial de Gabinete,18,0.0,4054.78,3437.97
+1489,Ana Lucia Moraes da Silva,RUSP,Gabinete do Reitor,36 Horas,Celetista,Básico 1,D,Telefonista,Auxiliar de Gabinete,30,0.0,4336.77,3671.42
+1854,Andre Luis Correa Barbosa,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 3,B,Tec Assuntos Administrativos,Assistente Técnico de Gabinete I,25,0.0,11632.24,8940.99
+2717,Antonio Paulo Soares,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 4,A,Motorista,Motorista do Reitor,14,0.0,7260.33,5992.73
+2719,Antonio Pedro dos Santos Filho,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 3,A,Auxiliar de Cozinha,Auxiliar de Gabinete,26,0.0,6013.68,4912.84
+3827,Carlos Alberto Dias da Rocha,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 2,A,Motorista,Motorista do Reitor,12,0.0,5370.85,4449.24
+4261,Caroline Fragata,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 1,A,Tec Assuntos Administrativos,Assistente Técnico de Direção I,6,0.0,5049.49,4123.74
+4796,Claudia Camargo Toni,RUSP,Gabinete do Reitor,40 Horas,Celetista,Superior 3,C,Analista Acadêmico,Assistente do Reitor I,29,0.0,19790.61,15104.81
+5394,Cristina Fragata,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 3,A,Secretário,Assistente Técnico de Gabinete I,14,0.0,8372.32,6629.68
+6319,Doralice Pereira dos Santos,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 2,A,Garcom,,27,0.0,4642.37,3846.61
+7384,Eliete da Rocha Viana,RUSP,Gabinete do Reitor,30 Horas,Celetista,Superior 2,A,Jornalista,Assistente Técnico de Gabinete I,7,0.0,10329.14,8050.1
+7900,Erika Yamamoto,RUSP,Gabinete do Reitor,30 Horas,Celetista,Superior 1,A,Jornalista,Assistente Técnico de Gabinete I,4,0.0,8705.43,4037.91
+9859,Gisele Tomaz do Carmo,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 2,A,Secretário,Assistente Técnico de Direção II,10,0.0,6644.92,5325.18
+10723,Ines Aparecida Vicente de Oliveira,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 2,B,Tec Assuntos Administrativos,Assistente Técnico de Direção II,26,0.0,9231.4,7231.6
+11779,Joao Francisco Pollo,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 1,A,Motorista,Motorista de Gabinete,2,0.0,2679.71,2436.78
+12382,Jose Aparecido dos Santos Saraiva,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 2,A,Auxiliar de Cozinha,Auxiliar de Gabinete,15,0.0,3725.12,3193.71
+13121,Jose Ricardo Barbosa,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 4,A,Tec Assuntos Administrativos,Assessor Técnico de Gabinete I,17,0.0,12029.45,9450.34
+14532,Lindomar da Costa Gonzaga,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 1,A,Motorista,Motorista de Gabinete,2,0.0,2792.84,2483.56
+15655,Luiza Yoshiko Issomura Yamamoto,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 4,A,Secretário,Assistente Técnico de Gabinete II,30,0.0,14590.78,11482.74
+15753,Magda Holan Yu Chang,RUSP,Gabinete do Reitor,40 Horas,Celetista,Superior 1,B,Analista Assuntos Administrativos,Assistente Técnico de Gabinete II,6,0.0,10478.29,8223.37
+16057,Marcelo Fernandez Cuzziol,RUSP,Gabinete do Reitor,40 Horas,Celetista,Superior 1,A,Analista de Comunicação,,21,0.0,13468.41,10675.4
+17495,Maria de Fatima Bezerra,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 4,A,Técnico de Comunicação,Assistente Técnico de Direção II,26,0.0,12250.7,9473.16
+18793,Marisa Aparecida Gomes Lisboa,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 2,A,Tec Assuntos Administrativos,Assistente do Reitor II,33,0.0,11474.51,8878.77
+21014,Paulo Antonio da Silva Brito,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 4,A,Auxiliar Contábil e Financeiro,Agente de Gabinete Sênior,29,0.0,9254.28,7321.24
+21613,Poliana Pinheiro de Carvalho,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 2,A,Secretário,Assistente Técnico de Direção II,10,0.0,6644.92,5273.04
+23472,Rosangela Mendes Goncalves,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 3,A,Cozinheiro,Oficial de Gabinete,25,0.0,6634.41,5285.29
+23901,Salvador Ferreira da Silva,RUSP,Gabinete do Reitor,40 Horas,Celetista,Superior 4,A,Procurador,Assessor de Gabinete,36,0.0,30471.11,23120.6
+23919,Samia de Souza Bomfim,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 1,A,Tec Assuntos Administrativos,,4,0.0,3893.59,3318.55
+25392,Tabita Brito Silva Nascimento,RUSP,Gabinete do Reitor,40 Horas,Celetista,Técnico 1,A,Tec Assuntos Administrativos,,4,0.0,4509.0,3962.39
+25815,Thiago Rodrigues Liporaci,RUSP,Gabinete do Reitor,40 Horas,Celetista,Superior 2,A,Procurador,Chefe de Gabinete,6,138.88,29347.26,22369.37
+27098,Wildner Vilaca Antonio,RUSP,Gabinete do Reitor,40 Horas,Celetista,Básico 2,A,Auxiliar de Administração,Oficial de Gabinete,18,0.0,4039.58,2524.39

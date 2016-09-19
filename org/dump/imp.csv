@@ -1,0 +1,595 @@
+Voto;Nome;Partido;Estado;Senador
+A favor;Aecio Neves;PSDB;MG;1
+A favor;Aloysio Nunes Ferreira;PSDB;SP;1
+A favor;Alvaro Dias;PV;PR;1
+A favor;Ana Amelia;PP;RS;1
+A favor;Antonio Anastasia;PSDB;MG;1
+A favor;Antonio Carlos Valadares;PSB;SE;1
+A favor;Ataides Oliveira;PSDB;TO;1
+A favor;Blairo Maggi;PR;MT;1
+A favor;Cassio Cunha Lima;PSDB;PB;1
+A favor;Dalirio Beber;PSDB;SC;1
+A favor;Dario Berger;PMDB;SC;1
+A favor;Davi Alcolumbre;DEM;AP;1
+A favor;Eduardo Amorim;PSC;SE;1
+A favor;Eunicio Oliveira;PMDB;CE;1
+A favor;Fernando Bezerra Coelho;PSB;PE;1
+A favor;Flexa Ribeiro;PSDB;PA;1
+A favor;Garibaldi Alves Filho;PMDB;RN;1
+A favor;Gladson Cameli;PP;AC;1
+A favor;Ivo Cassol;PP;RO;1
+A favor;Jose Agripino;DEM;RN;1
+A favor;Jose Maranhao;PMDB;PB;1
+A favor;Jose Medeiros;PSD;MT;1
+A favor;Jose Serra;PSDB;SP;1
+A favor;Lasier Martins;PDT;RS;1
+A favor;Lucia Vania;PSB;GO;1
+A favor;Magno Malta;PR;ES;1
+A favor;Marcelo Crivella;PRB;RJ;1
+A favor;Marta Suplicy;PMDB;SP;1
+A favor;Omar Aziz;PSD;AM;1
+A favor;Paulo Bauer;PSDB;SC;1
+A favor;Reguffe;Sem Partido;DF;1
+A favor;Ricardo Ferraco;PSDB;ES;1
+A favor;Ricardo Franco;DEM;SE;1
+A favor;Romario;PSB;RJ;1
+A favor;Romero Juca;PMDB;RR;1
+A favor;Ronaldo Caiado;DEM;GO;1
+A favor;Rose de Freitas;PMDB;ES;1
+A favor;Sergio Petecao;PSD;AC;1
+A favor;Simone Tebet;PMDB;MS;1
+A favor;Tasso Jereissati;PSDB;CE;1
+A favor;Valdir Raupp;PMDB;RO;1
+A favor;Waldemir Moka;PMDB;MS;1
+A favor;Wilder Morais;PP;GO;1
+A favor;Zeze Perrella;PTB;MG;1
+A favor;Abel Mesquita Jr.;DEM;RR;0
+A favor;Adelson Barreto;PR;SE;0
+A favor;Adilton Sachetti;PSB;MT;0
+A favor;Afonso Hamm;PP;RS;0
+A favor;Aguinaldo Ribeiro;PP;PB;0
+A favor;Alan Rick;PRB;AC;0
+A favor;Alberto Filho;PMDB;MA;0
+A favor;Alberto Fraga;DEM;DF;0
+A favor;Alceu Moreira;PMDB;RS;0
+A favor;Alex Canziani;PTB;PR;0
+A favor;Alex Manente;PPS;SP;0
+A favor;Alexandre Baldy;PTN;GO;0
+A favor;Alexandre Leite;DEM;SP;0
+A favor;Alexandre Serfiotis;PMDB;RJ;0
+A favor;Alexandre Valle;PR;RJ;0
+A favor;Alfredo Kaefer;PSL;PR;0
+A favor;Alfredo Nascimento;PR;AM;0
+A favor;Altineu Cortes;PMDB;RJ;0
+A favor;Anderson Ferreira;PR;PE;0
+A favor;Andre Abdon;PP;AP;0
+A favor;Andre de Paula;PSD;PE;0
+A favor;Andre Fufuca;PP;MA;0
+A favor;Andre Moura;PSC;SE;0
+A favor;Antonio Bulhoes;PRB;SP;0
+A favor;Antonio Imbassahy;PSDB;BA;0
+A favor;Antonio Jacome;PTN;RN;0
+A favor;Arnaldo Faria de Sa;PTB;SP;0
+A favor;Arnaldo Jardim;PPS;SP;0
+A favor;Arnaldo Jordy;PPS;PA;0
+A favor;Arolde de Oliveira;PSC;RJ;0
+A favor;Arthur Lira;PP;AL;0
+A favor;Arthur Oliveira Maia;PPS;BA;0
+A favor;Arthur Virgilio Bisneto;PSDB;AM;0
+A favor;Atila Lins;PSD;AM;0
+A favor;Atila Lira;PSB;PI;0
+A favor;Augusto Carvalho;SD;DF;0
+A favor;Augusto Coutinho;SD;PE;0
+A favor;Aureo;SD;RJ;0
+A favor;Baleia Rossi;PMDB;SP;0
+A favor;Benito Gama;PTB;BA;0
+A favor;Benjamin Maranhao;SD;PB;0
+A favor;Betinho Gomes;PSDB;PE;0
+A favor;Beto Mansur;PRB;SP;0
+A favor;Beto Rosado;PP;RN;0
+A favor;Bilac Pinto;PR;MG;0
+A favor;Bonifacio de Andrada;PSDB;MG;0
+A favor;Bruna Furlan;PSDB;SP;0
+A favor;Bruno Araujo;PSDB;PE;0
+A favor;Bruno Covas;PSDB;SP;0
+A favor;Cabo Daciolo;PTdoB;RJ;0
+A favor;Cabo Sabino;PR;CE;0
+A favor;Caio Narcio;PSDB;MG;0
+A favor;Capitao Augusto;PR;SP;0
+A favor;Carlos Andrade;PHS;RR;0
+A favor;Carlos Bezerra;PMDB;MT;0
+A favor;Carlos Gomes;PRB;RS;0
+A favor;Carlos Henrique Gaguim;PTN;TO;0
+A favor;Carlos Manato;SD;ES;0
+A favor;Carlos Marun;PMDB;MS;0
+A favor;Carlos Melles;DEM;MG;0
+A favor;Carlos Sampaio;PSDB;SP;0
+A favor;Carmen Zanotto;PPS;SC;0
+A favor;Celio Silveira;PSDB;GO;0
+A favor;Celso Maldaner;PMDB;SC;0
+A favor;Celso Russomanno;PRB;SP;0
+A favor;Cesar Halum;PRB;TO;0
+A favor;Cesar Souza;PSD;SC;0
+A favor;Christiane de Souza Yared;PR;PR;0
+A favor;Cicero Almeida;PMDB;AL;0
+A favor;Claudio Cajado;DEM;BA;0
+A favor;Cleber Verde;PRB;MA;0
+A favor;Conceicao Sampaio;PP;AM;0
+A favor;Covatti Filho;PP;RS;0
+A favor;Cristiane Brasil;PTB;RJ;0
+A favor;Damina Pereira;PSL;MG;0
+A favor;Daniel Coelho;PSDB;PE;0
+A favor;Daniel Vilela;PMDB;GO;0
+A favor;Danilo Cabral;PSB;PE;0
+A favor;Danilo Forte;PSB;CE;0
+A favor;Danrlei de Deus Hinterholz;PSD;RS;0
+A favor;Darcisio Perondi;PMDB;RS;0
+A favor;Delegado Eder Mauro;PSD;PA;0
+A favor;Delegado Edson Moreira;PR;MG;0
+A favor;Delegado Waldir;PR;GO;0
+A favor;Deley;PTB;RJ;0
+A favor;Diego Andrade;PSD;MG;0
+A favor;Diego Garcia;PHS;PR;0
+A favor;Dilceu Sperafico;PP;PR;0
+A favor;Dimas Fabiano;PP;MG;0
+A favor;Domingos Savio;PSDB;MG;0
+A favor;Dr. Joao;PR;RJ;0
+A favor;Dr. Jorge Silva;PHS;ES;0
+A favor;Dr. Sinval Malheiros;PTN;SP;0
+A favor;Duarte Nogueira;PSDB;SP;0
+A favor;Dulce Miranda;PMDB;TO;0
+A favor;Edinho Araujo;PMDB;SP;0
+A favor;Eduardo Barbosa;PSDB;MG;0
+A favor;Eduardo Bolsonaro;PSC;SP;0
+A favor;Eduardo Cunha;PMDB;RJ;0
+A favor;Eduardo Cury;PSDB;SP;0
+A favor;Efraim Filho;DEM;PB;0
+A favor;Eli Correa Filho;DEM;SP;0
+A favor;Elizeu Dionizio;PSDB;MS;0
+A favor;Eliziane Gama;PPS;MA;0
+A favor;Elmar Nascimento;DEM;BA;0
+A favor;Erivelton Santana;PEN;BA;0
+A favor;Eros Biondini;PROS;MG;0
+A favor;Esperidiao Amin;PP;SC;0
+A favor;Evair de Melo;PV;ES;0
+A favor;Evandro Gussi;PV;SP;0
+A favor;Evandro Roman;PSD;PR;0
+A favor;Expedito Netto;PSD;RO;0
+A favor;Ezequiel Teixeira;PTN;RJ;0
+A favor;Fabio Faria;PSD;RN;0
+A favor;Fabio Garcia;PSB;MT;0
+A favor;Fabio Ramalho;PMDB;MG;0
+A favor;Fabio Sousa;PSDB;GO;0
+A favor;Fausto Pinato;PP;SP;0
+A favor;Felipe Bornier;PROS;RJ;0
+A favor;Felipe Maia;DEM;RN;0
+A favor;Fernando Coelho Filho;PSB;PE;0
+A favor;Fernando Francischini;SD;PR;0
+A favor;Fernando Jordao;PMDB;RJ;0
+A favor;Flaviano Melo;PMDB;AC;0
+A favor;Flavinho;PSB;SP;0
+A favor;Floriano Pesaro;PSDB;SP;0
+A favor;Francisco Chapadinha;PTN;PA;0
+A favor;Francisco Floriano;DEM;RJ;0
+A favor;Genecias Noronha;SD;CE;0
+A favor;Geovania de Sa;PSDB;SC;0
+A favor;Geraldo Resende;PSDB;MS;0
+A favor;Giacobo;PR;PR;0
+A favor;Gilberto Nascimento;PSC;SP;0
+A favor;Giovani Cherini;PDT;RS;0
+A favor;Giuseppe Vecci;PSDB;GO;0
+A favor;Gonzaga Patriota;PSB;PE;0
+A favor;Goulart;PSD;SP;0
+A favor;Guilherme Mussi;PP;SP;0
+A favor;Heitor Schuch;PSB;RS;0
+A favor;Helio Leite;DEM;PA;0
+A favor;Heraclito Fortes;PSB;PI;0
+A favor;Herculano Passos;PSD;SP;0
+A favor;Heuler Cruvinel;PSD;GO;0
+A favor;Hildo Rocha;PMDB;MA;0
+A favor;Hiran Goncalves;PP;RR;0
+A favor;Hugo Leal;PSB;RJ;0
+A favor;Hugo Motta;PMDB;PB;0
+A favor;Indio da Costa;PSD;RJ;0
+A favor;Iracema Portella;PP;PI;0
+A favor;Irmao Lazaro;PSC;BA;0
+A favor;Izalci;PSDB;DF;0
+A favor;Jaime Martins;PSD;MG;0
+A favor;Jair Bolsonaro;PSC;RJ;0
+A favor;Jarbas Vasconcelos;PMDB;PE;0
+A favor;Jefferson Campos;PSD;SP;0
+A favor;Jeronimo Goergen;PP;RS;0
+A favor;Jessica Sales;PMDB;AC;0
+A favor;JHC;PSB;AL;0
+A favor;Jhonatan de Jesus;PRB;RR;0
+A favor;Joao Campos;PRB;GO;0
+A favor;Joao Castelo;PSDB;MA;0
+A favor;Joao Derly;REDE;RS;0
+A favor;Joao Fernando Coutinho;PSB;PE;0
+A favor;Joao Gualberto;PSDB;BA;0
+A favor;Joao Paulo Kleinubing;PSD;SC;0
+A favor;Joao Paulo Papa;PSDB;SP;0
+A favor;Joao Rodrigues;PSD;SC;0
+A favor;Joaquim Passarinho;PSD;PA;0
+A favor;Jony Marcos;PRB;SE;0
+A favor;Jorge Boeira;PP;SC;0
+A favor;Jorge Corte Real;PTB;PE;0
+A favor;Jorge Tadeu Mudalen;DEM;SP;0
+A favor;Jorginho Mello;PR;SC;0
+A favor;Jose Augusto Curvo;PSD;MT;0
+A favor;Jose Carlos Aleluia;DEM;BA;0
+A favor;Jose Fogaca;PMDB;RS;0
+A favor;Jose Otavio Germano;PP;RS;0
+A favor;Jose Stedile;PSB;RS;0
+A favor;Josi Nunes;PMDB;TO;0
+A favor;Josue Bengtson;PTB;PA;0
+A favor;Jovair Arantes;PTB;GO;0
+A favor;Julia Marinho;PSC;PA;0
+A favor;Julio Cesar;PSD;PI;0
+A favor;Julio Delgado;PSB;MG;0
+A favor;Julio Lopes;PP;RJ;0
+A favor;Juscelino Filho;DEM;MA;0
+A favor;Jutahy Junior;PSDB;BA;0
+A favor;Kaio Manicoba;PMDB;PE;0
+A favor;Keiko Ota;PSB;SP;0
+A favor;Laercio Oliveira;SD;SE;0
+A favor;Laerte Bessa;PR;DF;0
+A favor;Laudivio Carvalho;SD;MG;0
+A favor;Lazaro Botelho;PP;TO;0
+A favor;Leandre;PV;PR;0
+A favor;Lelo Coimbra;PMDB;ES;0
+A favor;Leonardo Quintao;PMDB;MG;0
+A favor;Leopoldo Meyer;PSB;PR;0
+A favor;Lincoln Portela;PRB;MG;0
+A favor;Lindomar Garcon;PRB;RO;0
+A favor;Lucas Vergilio;SD;GO;0
+A favor;Luciano Ducci;PSB;PR;0
+A favor;Lucio Mosquini;PMDB;RO;0
+A favor;Lucio Vieira Lima;PMDB;BA;0
+A favor;Luis Carlos Heinze;PP;RS;0
+A favor;Luis Tibe;PTdoB;MG;0
+A favor;Luiz Carlos Busato;PTB;RS;0
+A favor;Luiz Carlos Hauly;PSDB;PR;0
+A favor;Luiz Carlos Ramos;PTN;RJ;0
+A favor;Luiz Claudio;PR;RO;0
+A favor;Luiz Fernando Faria;PP;MG;0
+A favor;Luiz Lauro Filho;PSB;SP;0
+A favor;Luiz Nishimori;PR;PR;0
+A favor;Magda Mofatto;PR;GO;0
+A favor;Major Olimpio;SD;SP;0
+A favor;Mandetta;DEM;MS;0
+A favor;Manoel Junior;PMDB;PB;0
+A favor;Mara Gabrilli;PSDB;SP;0
+A favor;Marcelo Alvaro Antonio;PR;MG;0
+A favor;Marcelo Aro;PHS;MG;0
+A favor;Marcelo Belinati;PP;PR;0
+A favor;Marcelo Matos;PHS;RJ;0
+A favor;Marcelo Squassoni;PRB;SP;0
+A favor;Marcio Marinho;PRB;BA;0
+A favor;Marco Antonio Cabral;PMDB;RJ;0
+A favor;Marco Tebaldi;PSDB;SC;0
+A favor;Marcos Abrao;PPS;GO;0
+A favor;Marcos Montes;PSD;MG;0
+A favor;Marcos Rogerio;DEM;RO;0
+A favor;Marcos Rotta;PMDB;AM;0
+A favor;Marcos Soares;DEM;RJ;0
+A favor;Marcus Pestana;PSDB;MG;0
+A favor;Marcus Vicente;PP;ES;0
+A favor;Maria Helena;PSB;RR;0
+A favor;Mariana Carvalho;PSDB;RO;0
+A favor;Marinaldo Rosendo;PSB;PE;0
+A favor;Marinha Raupp;PMDB;RO;0
+A favor;Mario Heringer;PDT;MG;0
+A favor;Marx Beltrao;PMDB;AL;0
+A favor;Mauricio Quintella Lessa;PR;AL;0
+A favor;Mauro Lopes;PMDB;MG;0
+A favor;Mauro Mariani;PMDB;SC;0
+A favor;Mauro Pereira;PMDB;RS;0
+A favor;Max Filho;PSDB;ES;0
+A favor;Mendonca Filho;DEM;PE;0
+A favor;Miguel Haddad;PSDB;SP;0
+A favor;Miguel Lombardi;PR;SP;0
+A favor;Milton Monti;PR;SP;0
+A favor;Miro Teixeira;REDE;RJ;0
+A favor;Misael Varella;DEM;MG;0
+A favor;Missionario Jose Olimpio;DEM;SP;0
+A favor;Moroni Torgan;DEM;CE;0
+A favor;Moses Rodrigues;PMDB;CE;0
+A favor;Nelson Marchezan Junior;PSDB;RS;0
+A favor;Nelson Marquezelli;PTB;SP;0
+A favor;Nelson Meurer;PP;PR;0
+A favor;Nelson Padovani;PSDB;PR;0
+A favor;Newton Cardoso Jr;PMDB;MG;0
+A favor;Nilson Leitao;PSDB;MT;0
+A favor;Nilson Pinto;PSDB;PA;0
+A favor;Nilton Capixaba;PTB;RO;0
+A favor;Odelmo Leao;PP;MG;0
+A favor;Onyx Lorenzoni;DEM;RS;0
+A favor;Osmar Serraglio;PMDB;PR;0
+A favor;Osmar Terra;PMDB;RS;0
+A favor;Otavio Leite;PSDB;RJ;0
+A favor;Pastor Eurico;PHS;PE;0
+A favor;Pastor Franklin;PP;MG;0
+A favor;Pauderney Avelino;DEM;AM;0
+A favor;Paulo Abi-Ackel;PSDB;MG;0
+A favor;Paulo Azi;DEM;BA;0
+A favor;Paulo Feijo;PR;RJ;0
+A favor;Paulo Foletto;PSB;ES;0
+A favor;Paulo Freire;PR;SP;0
+A favor;Paulo Maluf;PP;SP;0
+A favor;Paulo Martins;PSDB;PR;0
+A favor;Paulo Pereira da Silva;SD;SP;0
+A favor;Pedro Chaves;PMDB;GO;0
+A favor;Pedro Cunha Lima;PSDB;PB;0
+A favor;Pedro Paulo;PMDB;RJ;0
+A favor;Pedro Vilela;PSDB;AL;0
+A favor;Pr. Marco Feliciano;PSC;SP;0
+A favor;Professor Victorio Galli;PSC;MT;0
+A favor;Professora Dorinha Seabra Rezende;DEM;TO;0
+A favor;Rafael Motta;PSB;RN;0
+A favor;Raimundo Gomes de Matos;PSDB;CE;0
+A favor;Raquel Muniz;PSD;MG;0
+A favor;Remidio Monai;PR;RR;0
+A favor;Renata Abreu;PTN;SP;0
+A favor;Renato Molling;PP;RS;0
+A favor;Renzo Braz;PP;MG;0
+A favor;Ricardo Barros;PP;PR;0
+A favor;Ricardo Izar;PP;SP;0
+A favor;Ricardo Tripoli;PSDB;SP;0
+A favor;Roberto Alves;PRB;SP;0
+A favor;Roberto Balestra;PP;GO;0
+A favor;Roberto de Lucena;PV;SP;0
+A favor;Roberto Sales;PRB;RJ;0
+A favor;Rocha;PSDB;AC;0
+A favor;Rodrigo de Castro;PSDB;MG;0
+A favor;Rodrigo Garcia;DEM;SP;0
+A favor;Rodrigo Maia;DEM;RJ;0
+A favor;Rodrigo Martins;PSB;PI;0
+A favor;Rodrigo Pacheco;PMDB;MG;0
+A favor;Rogerio Marinho;PSDB;RN;0
+A favor;Rogerio Peninha Mendonca;PMDB;SC;0
+A favor;Rogerio Rosso;PSD;DF;0
+A favor;Romulo Gouveia;PSD;PB;0
+A favor;Ronaldo Benedet;PMDB;SC;0
+A favor;Ronaldo Fonseca;PROS;DF;0
+A favor;Ronaldo Martins;PRB;CE;0
+A favor;Ronaldo Nogueira;PTB;RS;0
+A favor;Roney Nemer;PP;DF;0
+A favor;Rosangela Gomes;PRB;RJ;0
+A favor;Rubens Bueno;PPS;PR;0
+A favor;Samuel Moreira;PSDB;SP;0
+A favor;Sandro Alex;PSD;PR;0
+A favor;Saraiva Felipe;PMDB;MG;0
+A favor;Sarney Filho;PV;MA;0
+A favor;Sergio Moraes;PTB;RS;0
+A favor;Sergio Reis;PRB;SP;0
+A favor;Sergio Souza;PMDB;PR;0
+A favor;Sergio Vidigal;PDT;ES;0
+A favor;Sergio Zveiter;PMDB;RJ;0
+A favor;Sheridan;PSDB;RR;0
+A favor;Silas Camara;PRB;AM;0
+A favor;Silvio Torres;PSDB;SP;0
+A favor;Simao Sessim;PP;RJ;0
+A favor;Soraya Santos;PMDB;RJ;0
+A favor;Sostenes Cavalcante;DEM;RJ;0
+A favor;Stefano Aguiar;PSD;MG;0
+A favor;Subtenente Gonzaga;PDT;MG;0
+A favor;Tadeu Alencar;PSB;PE;0
+A favor;Takayama;PSC;PR;0
+A favor;Tenente Lucio;PSB;MG;0
+A favor;Tereza Cristina;PSB;MS;0
+A favor;Thiago Peixoto;PSD;GO;0
+A favor;Tia Eron;PRB;BA;0
+A favor;Tiririca;PR;SP;0
+A favor;Toninho Pinheiro;PP;MG;0
+A favor;Toninho Wandscheer;PROS;PR;0
+A favor;Uldurico Junior;PV;BA;0
+A favor;Valadares Filho;PSB;SE;0
+A favor;Valdir Colatto;PMDB;SC;0
+A favor;Vanderlei Macris;PSDB;SP;0
+A favor;Veneziano Vital do Rego;PMDB;PB;0
+A favor;Victor Mendes;PSD;MA;0
+A favor;Vinicius Carvalho;PRB;SP;0
+A favor;Vitor Lippi;PSDB;SP;0
+A favor;Vitor Valim;PMDB;CE;0
+A favor;Waldir Maranhao;PP;MA;0
+A favor;Walter Alves;PMDB;RN;0
+A favor;Washington Reis;PMDB;RJ;0
+A favor;Weliton Prado;PMB;MG;0
+A favor;Wilson Filho;PTB;PB;0
+A favor;Wladimir Costa;SD;PA;0
+A favor;Ze Silva;SD;MG;0
+Contra;Acir Gurgacz;PDT;RO;1
+Contra;Angela Portela;PT;RR;1
+Contra;Benedito de Lira;PP;AL;1
+Contra;Ciro Nogueira;PP;PI;1
+Contra;Donizeti Nogueira;PT;TO;1
+Contra;Edison Lobao;PMDB;MA;1
+Contra;Fatima Bezerra;PT;RN;1
+Contra;Gleisi Hoffmann;PT;PR;1
+Contra;Humberto Costa;PT;PE;1
+Contra;Jader Barbalho;PMDB;PA;1
+Contra;Joao Capiberibe;PSB;AP;1
+Contra;Jorge Viana;PT;AC;1
+Contra;Jose Pimentel;PT;CE;1
+Contra;Lidice da Mata;PSB;BA;1
+Contra;Lindbergh Farias;PT;RJ;1
+Contra;Otto Alencar;PSD;BA;1
+Contra;Paulo Paim;PT;RS;1
+Contra;Paulo Rocha;PT;PA;1
+Contra;Regina Sousa;PT;PI;1
+Contra;Renan Calheiros;PMDB;AL;1
+Contra;Roberto Requiao;PMDB;PR;1
+Contra;Telmario Mota;PDT;RR;1
+Contra;Vanessa Grazziotin;PCdoB;AM;1
+Contra;Vicentinho Alves;PR;TO;1
+Contra;Wellington Fagundes;PR;MT;1
+Contra;Adalberto Cavalcanti;PTB;PE;0
+Contra;Adelmo Carneiro Leao;PT;MG;0
+Contra;Aelton Freitas;PR;MG;0
+Contra;Afonso Florence;PT;BA;0
+Contra;Afonso Motta;PDT;RS;0
+Contra;Alessandro Molon;REDE;RJ;0
+Contra;Alice Portugal;PCdoB;BA;0
+Contra;Aliel Machado;REDE;PR;0
+Contra;Aluisio Mendes;PTN;MA;0
+Contra;Ana Perugini;PT;SP;0
+Contra;Andres Sanchez;PT;SP;0
+Contra;Angelim;PT;AC;0
+Contra;Antonio Brito;PSD;BA;0
+Contra;Ariosto Holanda;PDT;CE;0
+Contra;Arlindo Chinaglia;PT;SP;0
+Contra;Arnon Bezerra;PTB;CE;0
+Contra;Assis Carvalho;PT;PI;0
+Contra;Assis do Couto;PDT;PR;0
+Contra;Bacelar;PTN;BA;0
+Contra;Bebeto;PSB;BA;0
+Contra;Benedita da Silva;PT;RJ;0
+Contra;Beto Faro;PT;PA;0
+Contra;Beto Salame;PP;PA;0
+Contra;Bohn Gass;PT;RS;0
+Contra;Caetano;PT;BA;0
+Contra;Capitao Fabio Abreu;PTB;PI;0
+Contra;Carlos Zarattini;PT;SP;0
+Contra;Celso Pansera;PMDB;RJ;0
+Contra;Cesar Messias;PSB;AC;0
+Contra;Chico Alencar;PSOL;RJ;0
+Contra;Chico D'angelo;PT;RJ;0
+Contra;Chico Lopes;PCdoB;CE;0
+Contra;Clarissa Garotinho;PR;RJ;0
+Contra;Damiao Feliciano;PDT;PB;0
+Contra;Daniel Almeida;PCdoB;BA;0
+Contra;Davidson Magalhaes;PCdoB;BA;0
+Contra;Decio Lima;PT;SC;0
+Contra;Domingos Neto;PSD;CE;0
+Contra;Edmilson Rodrigues;PSOL;PA;0
+Contra;Eduardo da Fonte;PP;PE;0
+Contra;Elcione Barbalho;PMDB;PA;0
+Contra;Enio Verri;PT;PR;0
+Contra;Erika Kokay;PT;DF;0
+Contra;Fabio Mitidieri;PSD;SE;0
+Contra;Fabio Reis;PMDB;SE;0
+Contra;Fernando Torres;PSD;BA;0
+Contra;Gabriel Guimaraes;PT;MG;0
+Contra;George Hilton;PROS;MG;0
+Contra;Givaldo Carimbao;PHS;AL;0
+Contra;Givaldo Vieira;PT;ES;0
+Contra;Glauber Braga;PSOL;RJ;0
+Contra;Gorete Pereira;PR;CE;0
+Contra;Helder Salomao;PT;ES;0
+Contra;Henrique Fontana;PT;RS;0
+Contra;Iraja Abreu;PSD;TO;0
+Contra;Ivan Valente;PSOL;SP;0
+Contra;Jandira Feghali;PCdoB;RJ;0
+Contra;Janete Capiberibe;PSB;AP;0
+Contra;Jean Wyllys;PSOL;RJ;0
+Contra;Jo Moraes;PCdoB;MG;0
+Contra;Joao Daniel;PT;SE;0
+Contra;Joao Marcelo Souza;PMDB;MA;0
+Contra;Jorge Solla;PT;BA;0
+Contra;Jose Airton Cirilo;PT;CE;0
+Contra;Jose Carlos Araujo;PR;BA;0
+Contra;Jose Guimaraes;PT;CE;0
+Contra;Jose Mentor;PT;SP;0
+Contra;Jose Nunes;PSD;BA;0
+Contra;Jose Rocha;PR;BA;0
+Contra;Junior Marreca;PEN;MA;0
+Contra;Leo de Brito;PT;AC;0
+Contra;Leonardo Monteiro;PT;MG;0
+Contra;Leonardo Picciani;PMDB;RJ;0
+Contra;Leonidas Cristino;PDT;CE;0
+Contra;Luciana Santos;PCdoB;PE;0
+Contra;Lucio Vale;PR;PA;0
+Contra;Luiz Couto;PT;PB;0
+Contra;Luiz Sergio;PT;RJ;0
+Contra;Luiza Erundina;PSOL;SP;0
+Contra;Luizianne Lins;PT;CE;0
+Contra;Macedo;PP;CE;0
+Contra;Marcelo Castro;PMDB;PI;0
+Contra;Marco Maia;PT;RS;0
+Contra;Marcon;PT;RS;0
+Contra;Margarida Salomao;PT;MG;0
+Contra;Maria do Rosario;PT;RS;0
+Contra;Moema Gramacho;PT;BA;0
+Contra;Nilto Tatto;PT;SP;0
+Contra;Odair Cunha;PT;MG;0
+Contra;Odorico Monteiro;PROS;CE;0
+Contra;Orlando Silva;PCdoB;SP;0
+Contra;Padre Joao;PT;MG;0
+Contra;Patrus Ananias;PT;MG;0
+Contra;Paulao;PT;AL;0
+Contra;Paulo Magalhaes;PSD;BA;0
+Contra;Paulo Pimenta;PT;RS;0
+Contra;Paulo Teixeira;PT;SP;0
+Contra;Pedro Fernandes;PTB;MA;0
+Contra;Pedro Uczai;PT;SC;0
+Contra;Pepe Vargas;PT;RS;0
+Contra;Professora Marcivania;PCdoB;AP;0
+Contra;Reginaldo Lopes;PT;MG;0
+Contra;Rejane Dias;PT;PI;0
+Contra;Ricardo Teobaldo;PTN;PE;0
+Contra;Roberto Britto;PP;BA;0
+Contra;Ronaldo Carletto;PP;BA;0
+Contra;Rubens Otoni;PT;GO;0
+Contra;Rubens Pereira Junior;PCdoB;MA;0
+Contra;Saguas Moraes;PT;MT;0
+Contra;Sergio Brito;PSD;BA;0
+Contra;Siba Machado;PT;AC;0
+Contra;Silvio Costa;PTdoB;PE;0
+Contra;Simone Morgado;PMDB;PA;0
+Contra;Valmir Assuncao;PT;BA;0
+Contra;Valmir Prascidelli;PT;SP;0
+Contra;Valtenir Pereira;PMDB;MT;0
+Contra;Vander Loubet;PT;MS;0
+Contra;Vicente Arruda;PDT;CE;0
+Contra;Vicente Candido;PT;SP;0
+Contra;Vicentinho;PT;SP;0
+Contra;Vicentinho Junior;PR;TO;0
+Contra;Wadih Damous;PT;RJ;0
+Contra;Waldenor Pereira;PT;BA;0
+Contra;Wellington Roberto;PR;PB;0
+Contra;Weverton Rocha;PDT;MA;0
+Contra;Wolney Queiroz;PDT;PE;0
+Contra;Ze Carlos;PT;MA;0
+Contra;Ze Geraldo;PT;PA;0
+Contra;Zeca Cavalcanti;PTB;PE;0
+Contra;Zeca Dirceu;PT;PR;0
+Contra;Zeca do PT;PT;MS;0
+Contra;Zenaide Maia;PR;RN;0
+;Cristovam Buarque;PPS;DF;1
+;Delcidio do Amaral;Sem Partido;MS;1
+;Douglas Cintra;PTB;PE;1
+;Elmano Ferrer;PTB;PI;1
+;Fernando Collor;PTC;AL;1
+;Helio Jose;PMDB;DF;1
+;Joao Alberto Souza;PMDB;MA;1
+;Raimundo Lira;PMDB;PB;1
+;Randolfe Rodrigues;REDE;AP;1
+;Roberto Rocha;PSB;MA;1
+;Sandra Braga;PMDB;AM;1
+;Walter Pinheiro;Sem Partido;BA;1
+;Adail Carneiro;PP;CE;0
+;Anibal Gomes;PMDB;CE;0
+;Brunny;PR;MG;0
+;Cabucu Borges;PMDB;AP;0
+;Caca Leao;PP;BA;0
+;Dagoberto Nogueira;PDT;MS;0
+;Edio Lopes;PR;RR;0
+;Felix Mendonca Junior;PDT;BA;0
+;Flavia Morais;PDT;GO;0
+;Hermes Parcianello;PMDB;PR;0
+;Hissa Abrahao;PDT;AM;0
+;Joao Arruda;PMDB;PR;0
+;Joao Carlos Bacelar;PR;BA;0
+;Jose Priante;PMDB;PA;0
+;Jose Reinaldo;PSB;MA;0
+;Jozi Araujo;PTN;AP;0
+;Marcio Alvino;PR;SP;0
+;Marcos Reategui;PSD;AP;0
+;Mario Negromonte Jr.;PP;BA;0
+;Paes Landim;PTB;PI;0
+;Pompeo de Mattos;PDT;RS;0
+;Roberto Goes;PDT;AP;0
+;Ronaldo Lessa;PDT;AL;0
+;Sebastiao Oliveira;PR;PE;0
+;Vinicius Gurgel;PR;AP;0
