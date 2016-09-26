@@ -1,0 +1,917 @@
+ano,data,dia,direcao,mes,nome,tipo,valor
+2014,2014-12-17,17,Débito,12,Férias 15 dias (REF. JANEIRO 2015),Funcionário-Marivalda,629.39
+2014,2014-12-18,18,Débito,12,GPS (REF. JANEIRO 2015),JB Contabilidade,367.37
+2014,2014-12-18,18,Débito,12,JB Contabilidade (REF. JANEIRO 2015,JB Contabilidade,362.0
+2014,2014-12-18,18,Débito,12,FGTS (REF. JANEIRO 2015),JB Contabilidade,126.56
+2014,2014-12-18,18,Débito,12,DARF (REF. JANEIRO 2015),JB Contabilidade,20.52
+2014,2014-12-18,18,Débito,12,Salário (REF. JANEIRO 2015),Funcionário-Marivalda,1158.07
+2015,2015-01-05,5,Débito,1,Churrasqueira,Compras,89.99
+2015,2015-01-05,5,Débito,1,Arcondicionado + luminárias,Compras,2919.5
+2015,2015-01-12,12,Crédito,1,Xerox,Aluguel,1448.0
+2015,2015-01-12,12,Crédito,1,Lanchonete,Aluguel,4300.0
+2015,2015-01-15,15,Crédito,1,Blusão + camiseta,Vendas,120.0
+2015,2015-01-19,19,Crédito,1,Camiseta,Vendas,20.0
+2015,2015-01-20,20,Débito,1,Marinalva (2 dias+ VT),Diaristas,200.0
+2015,2015-01-20,20,Débito,1,Repasse (4 meses),Repasse Cherateria,1000.0
+2015,2015-01-20,20,Crédito,1,10 canecas,Vendas,50.0
+2015,2015-01-20,20,Débito,1,Conta de Luz,Conta de Luz,70.12
+2015,2015-01-20,20,Débito,1,Vale,Funcionário-Marivalda,500.0
+2015,2015-01-21,21,Débito,1,Repasse,Repasse Atlética,2740.0
+2015,2015-01-26,26,Crédito,1,Camiseta,Vendas,20.0
+2015,2015-01-28,28,Crédito,1,Livraria,Aluguel,800.0
+2015,2015-01-30,30,Crédito,1,1Caneca + caneta,Vendas,7.0
+2015,2015-01-30,30,Débito,1,Marinalva (2 dias+ VT),Diaristas,200.0
+2015,2015-02-02,2,Crédito,2,Camiseta (com defeito) (cartão),Vendas,10.0
+2015,2015-02-02,2,Crédito,2,Chaveiro (cartão),Vendas,5.0
+2015,2015-02-02,2,Crédito,2,2 Camisetas (Cartão),Vendas,40.0
+2015,2015-02-03,3,Crédito,2,Camiseta (promoção),Vendas,5.0
+2015,2015-02-03,3,Crédito,2,Camiseta,Vendas,20.0
+2015,2015-02-04,4,Crédito,2,Camiseta,Vendas,20.0
+2015,2015-02-04,4,Crédito,2,Chaveiro ,Vendas,5.0
+2015,2015-02-04,4,Crédito,2,Camiseta,Vendas,20.0
+2015,2015-02-04,4,Crédito,2,2 Chaveiros,Vendas,10.0
+2015,2015-02-04,4,Crédito,2,2 Camisetas (promoção),Vendas,10.0
+2015,2015-02-04,4,Crédito,2,Camiseta,Vendas,20.0
+2015,2015-02-04,4,Crédito,2,Caneca,Vendas,5.0
+2015,2015-02-04,4,Crédito,2,2 Canetas,Vendas,4.0
+2015,2015-02-04,4,Crédito,2,3 Camisetas (promoção),Vendas,15.0
+2015,2015-02-04,4,Crédito,2,Chaveiro,Vendas,5.0
+2015,2015-02-05,5,Crédito,2,5 Camisetas,Vendas,100.0
+2015,2015-02-05,5,Crédito,2,3 Chaveiros,Vendas,15.0
+2015,2015-02-05,5,Débito,2,Mouse (xerox),Compras,13.5
+2015,2015-02-05,5,Débito,2,Material Limpeza,Material de Limpeza,272.6
+2015,2015-02-05,5,Crédito,2,2 Camisetas,Vendas,40.0
+2015,2015-02-05,5,Crédito,2,2 Canecas,Vendas,10.0
+2015,2015-02-05,5,Débito,2,FGTS,JB Contabilidade,95.77
+2015,2015-02-05,5,Crédito,2,Xerox,Aluguel,1008.0
+2015,2015-02-05,5,Débito,2,DARF,JB Contabilidade,18.81
+2015,2015-02-05,5,Débito,2,GPS,JB Contabilidade,428.59
+2015,2015-02-05,5,Débito,2,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-02-05,5,Crédito,2,Caneca,Vendas,5.0
+2015,2015-02-06,6,Crédito,2,3 Camisetas,Vendas,60.0
+2015,2015-02-06,6,Crédito,2,Caneca,Vendas,5.0
+2015,2015-02-06,6,Crédito,2,3 Camisetas (promoção),Vendas,15.0
+2015,2015-02-06,6,Crédito,2,2 Canecas,Vendas,10.0
+2015,2015-02-06,6,Crédito,2,3 Camisetas (promoção),Vendas,15.0
+2015,2015-02-06,6,Crédito,2,2 Moletons,Vendas,200.0
+2015,2015-02-06,6,Crédito,2,2 Chaveiros,Vendas,10.0
+2015,2015-02-06,6,Crédito,2,2 Sacolas,Vendas,14.0
+2015,2015-02-09,9,Débito,2,Salário,Funcionário-Marivalda,448.03
+2015,2015-02-09,9,Débito,2,Férias 15 dias,Funcionário-Marivalda,629.39
+2015,2015-02-09,9,Débito,2,Futebol de sabão (Adiantamento),Eventos,150.0
+2015,2015-02-12,12,Crédito,2,Lanchonete,Aluguel,4300.0
+2015,2015-02-13,13,Débito,2,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-02-13,13,Débito,2,Erica (2 dias + VT),Diaristas,160.0
+2015,2015-02-13,13,Crédito,2,Camiseta (promoção),Vendas,5.0
+2015,2015-02-13,13,Débito,2,Futebol de Sabão (RESTANTE),Eventos,400.0
+2015,2015-02-19,19,Crédito,2,Camiseta,Vendas,20.0
+2015,2015-02-19,19,Débito,2,Encomendas camisetas,Compras,2300.0
+2015,2015-02-20,20,Débito,2,Vale,Funcionário-Marivalda,500.0
+2015,2015-02-20,20,Débito,2,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-02-23,23,Crédito,2,Caneca + Chaveiro,Vendas,10.0
+2015,2015-02-23,23,Crédito,2,2 Camisetas,Vendas,40.0
+2015,2015-02-23,23,Débito,2,Marinalva (VT),Diaristas,20.0
+2015,2015-02-24,24,Débito,2,Marinalva (2dias),Diaristas,150.0
+2015,2015-02-24,24,Débito,2,Conta de Luz,Conta de Luz,95.37
+2015,2015-02-25,25,Débito,2,Marinalva (VT),Diaristas,20.0
+2015,2015-02-25,25,Débito,2,Marinalva (1 dia),Diaristas,75.0
+2015,2015-02-26,26,Crédito,2,Camiseta + caneca,Vendas,25.0
+2015,2015-02-26,26,Débito,2,Locomoção para aquisição de equipamento,Outras despesas,50.0
+2015,2015-02-26,26,Débito,2,Marinalva (1 dia),Diaristas,75.0
+2015,2015-02-26,26,Crédito,2,2 Camisetas,Vendas,40.0
+2015,2015-02-27,27,Crédito,2,2 Chaveiros,Vendas,10.0
+2015,2015-02-27,27,Crédito,2,Caneca,Vendas,5.0
+2015,2015-03-02,2,Crédito,3,Moletom,Vendas,100.0
+2015,2015-03-02,2,Crédito,3,1 Caneta,Vendas,2.0
+2015,2015-03-03,3,Crédito,3,1 Caneta,Vendas,2.0
+2015,2015-03-03,3,Débito,3,Marinalva (VT),Diaristas,20.0
+2015,2015-03-04,4,Débito,3,GPS,JB Contabilidade,367.37
+2015,2015-03-04,4,Débito,3,Marinalva (1 dia),Diaristas,50.0
+2015,2015-03-04,4,Débito,3,Salário,Funcionário-Marivalda,950.07
+2015,2015-03-04,4,Débito,3,DARF,JB Contabilidade,10.26
+2015,2015-03-04,4,Débito,3,FGTS,JB Contabilidade,82.09
+2015,2015-03-04,4,Crédito,3,2 Camisetas,Vendas,40.0
+2015,2015-03-04,4,Débito,3,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-03-04,4,Crédito,3,Xerox,Aluguel,1008.0
+2015,2015-03-04,4,Débito,3,Fantasias aula trote,Compras,140.0
+2015,2015-03-04,4,Crédito,3,3 Canecas,Vendas,15.0
+2015,2015-03-04,4,Crédito,3,Vendas (cartão),Vendas,340.0
+2015,2015-03-04,4,Crédito,3,Camiseta,Vendas,20.0
+2015,2015-03-04,4,Débito,3,Cabos de som,Compras,100.0
+2015,2015-03-05,5,Débito,3,Marinalva (VT),Diaristas,20.0
+2015,2015-03-05,5,Crédito,3,Camiseta + chaveiro,Vendas,25.0
+2015,2015-03-05,5,Crédito,3,Camiseta + caneca,Vendas,25.0
+2015,2015-03-05,5,Crédito,3,Camiseta,Vendas,20.0
+2015,2015-03-05,5,Crédito,3,Caneca,Vendas,5.0
+2015,2015-03-06,6,Crédito,3,2 Camisetas (promoção),Vendas,10.0
+2015,2015-03-06,6,Crédito,3,Camiseta (promoção),Vendas,5.0
+2015,2015-03-06,6,Débito,3,Material Limpeza,Material de Limpeza,342.6
+2015,2015-03-06,6,Crédito,3,Camiseta,Vendas,20.0
+2015,2015-03-06,6,Débito,3,Limpeza vidros (Janelas e Potas),Outras despesas,50.0
+2015,2015-03-06,6,Débito,3,Marinalva (2dias),Diaristas,150.0
+2015,2015-03-09,9,Crédito,3,Caneca,Vendas,5.0
+2015,2015-03-09,9,Crédito,3,Vendas (matricula 12/02/15),Vendas,1482.0
+2015,2015-03-09,9,Crédito,3,2 Canecas,Vendas,10.0
+2015,2015-03-09,9,Crédito,3,Camiseta,Vendas,20.0
+2015,2015-03-09,9,Débito,3,Bottoms,Compras,160.0
+2015,2015-03-09,9,Crédito,3,Livraria,Aluguel,800.0
+2015,2015-03-10,10,Crédito,3,Caneca,Vendas,5.0
+2015,2015-03-11,11,Débito,3,Erica (5 dias + VT),Diaristas,355.0
+2015,2015-03-12,12,Débito,3,Marinalva (VT),Diaristas,20.0
+2015,2015-03-13,13,Débito,3,Marinalva (2dias),Diaristas,150.0
+2015,2015-03-16,16,Crédito,3,2 Camisetas,Vendas,40.0
+2015,2015-03-16,16,Débito,3,Marinalva (VT),Diaristas,20.0
+2015,2015-03-17,17,Débito,3,Marinalva (2dias),Diaristas,150.0
+2015,2015-03-17,17,Crédito,3,Lanchonete,Aluguel,7500.0
+2015,2015-03-18,18,Crédito,3,Moletom,Vendas,100.0
+2015,2015-03-19,19,Crédito,3,Moletom,Vendas,100.0
+2015,2015-03-19,19,Débito,3,Marinalva (VT),Diaristas,20.0
+2015,2015-03-19,19,Débito,3,Marinalva (1 dia),Diaristas,75.0
+2015,2015-03-20,20,Débito,3,Conta de Luz,Conta de Luz,124.66
+2015,2015-03-20,20,Débito,3,Emprestimo,Repasse Cherateria,150.0
+2015,2015-03-20,20,Débito,3,Marinalva (1 dia),Diaristas,75.0
+2015,2015-03-20,20,Débito,3,Vale,Funcionário-Marivalda,500.0
+2015,2015-03-23,23,Crédito,3,Caneca,Vendas,5.0
+2015,2015-03-23,23,Crédito,3,Moletom,Vendas,100.0
+2015,2015-03-23,23,Crédito,3,Moletom,Vendas,100.0
+2015,2015-03-23,23,Débito,3,Marinalva (VT),Diaristas,20.0
+2015,2015-03-24,24,Débito,3,Marinalva (2dias),Diaristas,150.0
+2015,2015-03-25,25,Crédito,3,Aluguel microfone (IME),Vendas,20.0
+2015,2015-03-25,25,Crédito,3,2 Camisetas,Vendas,40.0
+2015,2015-03-25,25,Crédito,3,Camiseta,Vendas,20.0
+2015,2015-03-26,26,Débito,3,Café com quantum,Outras despesas,31.25
+2015,2015-03-26,26,Débito,3,Marinalva (VT),Diaristas,20.0
+2015,2015-03-26,26,Débito,3,Marinalva (1 dia),Diaristas,75.0
+2015,2015-03-27,27,Débito,3,Lanches (Reunião Cefisma),Outras despesas,30.0
+2015,2015-03-27,27,Crédito,3,Camiseta,Vendas,20.0
+2015,2015-03-27,27,Crédito,3,Camiseta,Vendas,20.0
+2015,2015-03-27,27,Débito,3,Bottoms,Compras,270.0
+2015,2015-03-27,27,Débito,3,Marinalva (1 dia),Diaristas,75.0
+2015,2015-03-30,30,Débito,3,Marinalva (VT),Diaristas,20.0
+2015,2015-03-31,31,Débito,3,Marinalva (2dias),Diaristas,150.0
+2015,2015-03-31,31,Débito,3,Material Limpeza,Material de Limpeza,230.7
+2015,2015-04-01,1,Débito,4,Marinalva (VT),Diaristas,20.0
+2015,2015-04-01,1,Débito,4,Conserto da câmera fotográfica,Eventos,120.0
+2015,2015-04-02,2,Débito,4,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-04-02,2,Débito,4,Salário,Funcionário-Marivalda,1404.07
+2015,2015-04-02,2,Débito,4,GPS,JB Contabilidade,367.37
+2015,2015-04-02,2,Débito,4,DARF,JB Contabilidade,10.26
+2015,2015-04-02,2,Débito,4,Marinalva (2dias),Diaristas,150.0
+2015,2015-04-02,2,Débito,4,FGTS,JB Contabilidade,82.09
+2015,2015-04-07,7,Crédito,4,Camiseta,Vendas,20.0
+2015,2015-04-07,7,Crédito,4,Camiseta,Vendas,20.0
+2015,2015-04-07,7,Débito,4,Marinalva (VT),Diaristas,20.0
+2015,2015-04-08,8,Débito,4,Marinalva (2dias),Diaristas,150.0
+2015,2015-04-08,8,Débito,4,Taxa de Doc Banco,Compras,14.9
+2015,2015-04-08,8,Crédito,4,Livraria,Aluguel,800.0
+2015,2015-04-08,8,Débito,4,Pgto da 1º Parcela Moletons,Compras,3000.0
+2015,2015-04-08,8,Crédito,4,Xerox (Ref. Abril),Aluguel,1448.0
+2015,2015-04-08,8,Crédito,4,Moletom,Vendas,100.0
+2015,2015-04-08,8,Crédito,4,Aluguel microfone ,Vendas,20.0
+2015,2015-04-08,8,Crédito,4,Camiseta,Vendas,20.0
+2015,2015-04-08,8,Crédito,4,Caneca,Vendas,5.0
+2015,2015-04-08,8,Crédito,4,Xerox (Ref. Março),Aluguel,1448.0
+2015,2015-04-09,9,Débito,4,Marinalva (VT),Diaristas,20.0
+2015,2015-04-10,10,Débito,4,Marinalva (2dias),Diaristas,150.0
+2015,2015-04-10,10,Crédito,4,2 Canetas + caneca,Vendas,9.0
+2015,2015-04-10,10,Débito,4,Ultrafarma,Compras,184.82
+2015,2015-04-13,13,Crédito,4,Camiseta,Vendas,20.0
+2015,2015-04-14,14,Crédito,4,Camiseta,Vendas,20.0
+2015,2015-04-14,14,Débito,4,Marinalva (VT),Diaristas,20.0
+2015,2015-04-15,15,Crédito,4,Lanchonete,Aluguel,7500.0
+2015,2015-04-16,16,Débito,4,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-04-16,16,Débito,4,Site Cefisma (trimestral),Manutenção do Site,210.0
+2015,2015-04-16,16,Crédito,4,8 Chaveiros,Vendas,40.0
+2015,2015-04-16,16,Crédito,4,2 Camisetas,Vendas,40.0
+2015,2015-04-16,16,Crédito,4,5 Camisetas,Vendas,100.0
+2015,2015-04-16,16,Crédito,4,Caneca,Vendas,5.0
+2015,2015-04-17,17,Crédito,4,Bebidas,Vendas,72.0
+2015,2015-04-17,17,Débito,4,Vale,Funcionário-Marivalda,500.0
+2015,2015-04-17,17,Débito,4,Erica (2 dias),Diaristas,150.0
+2015,2015-04-22,22,Débito,4,Doação,Doação,7.0
+2015,2015-04-22,22,Débito,4,Marinalva (VT),Diaristas,20.0
+2015,2015-04-23,23,Crédito,4,Caneca,Vendas,5.0
+2015,2015-04-23,23,Débito,4,Marinalva (2dias),Diaristas,150.0
+2015,2015-04-23,23,Crédito,4,Moletom,Vendas,100.0
+2015,2015-04-24,24,Crédito,4,Moletom,Vendas,100.0
+2015,2015-04-24,24,Crédito,4,Moletom,Vendas,100.0
+2015,2015-04-24,24,Débito,4,Repasse,Repasse Atlética,2900.0
+2015,2015-04-27,27,Crédito,4,Moletom,Vendas,100.0
+2015,2015-04-27,27,Débito,4,Kalunga,Compras,137.8
+2015,2015-04-27,27,Débito,4,Marinalva (VT),Diaristas,20.0
+2015,2015-04-28,28,Crédito,4,Moletom,Vendas,100.0
+2015,2015-04-28,28,Crédito,4,Moletom,Vendas,100.0
+2015,2015-04-28,28,Débito,4,Conta de Luz,Conta de Luz,100.92
+2015,2015-04-28,28,Débito,4,Cordas violão,Compras,67.64
+2015,2015-04-28,28,Débito,4,Papelaria FAU,Compras,26.0
+2015,2015-04-28,28,Crédito,4,Vendas,Vendas,175.0
+2015,2015-04-28,28,Débito,4,Marinalva (2dias),Diaristas,150.0
+2015,2015-04-29,29,Crédito,4,Moletom,Vendas,100.0
+2015,2015-04-29,29,Crédito,4,Caneca,Vendas,5.0
+2015,2015-04-30,30,Crédito,4,Aluguel microfone,Vendas,20.0
+2015,2015-04-30,30,Crédito,4,Moletom (cartão),Vendas,100.0
+2015,2015-04-30,30,Crédito,4,Moletom (cartão),Vendas,100.0
+2015,2015-04-30,30,Débito,4,Marinalva (1 dia + VT),Diaristas,85.0
+2015,2015-04-30,30,Crédito,4,Caneca,Vendas,5.0
+2015,2015-04-30,30,Débito,4,Juros maquina Cartão (Valdir),Compras,3.0
+2015,2015-05-04,4,Débito,5,Material Limpeza,Material de Limpeza,361.7
+2015,2015-05-04,4,Débito,5,Marinalva (VT),Diaristas,20.0
+2015,2015-05-04,4,Débito,5,Emprestimo,Funcionário-Marivalda,1000.0
+2015,2015-05-04,4,Débito,5,Salário,Funcionário-Marivalda,904.07
+2015,2015-05-04,4,Débito,5,DARF,JB Contabilidade,10.26
+2015,2015-05-04,4,Débito,5,GPS,JB Contabilidade,367.37
+2015,2015-05-04,4,Débito,5,FGTS,JB Contabilidade,82.09
+2015,2015-05-04,4,Débito,5,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-05-04,4,Crédito,5,Xerox,Aluguel,1448.0
+2015,2015-05-05,5,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-05,5,Crédito,5,2 Moletons,Vendas,200.0
+2015,2015-05-05,5,Débito,5,Repasse (6 meses + semestral),Repasse Cherateria,1500.0
+2015,2015-05-05,5,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-05,5,Débito,5,Marinalva (2dias),Diaristas,150.0
+2015,2015-05-05,5,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-05,5,Débito,5,Repasse (6 meses + semestral) Rest.,Repasse Cherateria,400.0
+2015,2015-05-06,6,Débito,5,Fita durex (Valdir),Compras,4.0
+2015,2015-05-06,6,Débito,5,Juros maquina Cartão (Valdir),Compras,3.0
+2015,2015-05-06,6,Crédito,5,Camiseta,Vendas,20.0
+2015,2015-05-07,7,Débito,5,Kalunga,Compras,30.23
+2015,2015-05-07,7,Débito,5,Marinalva (1 dia + VT),Diaristas,85.0
+2015,2015-05-08,8,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-08,8,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-08,8,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-08,8,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-08,8,Débito,5,Kalunga,Compras,25.2
+2015,2015-05-08,8,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-11,11,Débito,5,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-05-12,12,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-12,12,Crédito,5,Livraria,Aluguel,1100.0
+2015,2015-05-12,12,Crédito,5,Camiseta,Vendas,20.0
+2015,2015-05-13,13,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-13,13,Crédito,5,Lanchonete,Aluguel,7500.0
+2015,2015-05-14,14,Crédito,5,3 Chaveiros + sacola,Vendas,22.0
+2015,2015-05-14,14,Crédito,5,Camiseta,Vendas,20.0
+2015,2015-05-14,14,Crédito,5,Caneca,Vendas,5.0
+2015,2015-05-14,14,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-14,14,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-14,14,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-14,14,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-14,14,Crédito,5,Camiseta,Vendas,20.0
+2015,2015-05-15,15,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-15,15,Crédito,5,Camiseta,Vendas,20.0
+2015,2015-05-15,15,Débito,5,Marinalva (1 dia + VT),Diaristas,85.0
+2015,2015-05-18,18,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-18,18,Débito,5,Marinalva (VT),Diaristas,20.0
+2015,2015-05-18,18,Crédito,5,2 Camisetas + 2 canecas (cartão),Vendas,50.0
+2015,2015-05-19,19,Crédito,5,2 Camisetas,Vendas,40.0
+2015,2015-05-19,19,Crédito,5,4 Moletons,Vendas,400.0
+2015,2015-05-19,19,Débito,5,Marinalva (2dias),Diaristas,150.0
+2015,2015-05-19,19,Débito,5,Juros maquina Cartão (Valdir),Compras,21.66
+2015,2015-05-19,19,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-20,20,Débito,5,Cordas violão,Compras,78.0
+2015,2015-05-21,21,Crédito,5,Moletom (cartão),Vendas,100.0
+2015,2015-05-21,21,Crédito,5,Caneca,Vendas,5.0
+2015,2015-05-21,21,Débito,5,Conta de Luz,Conta de Luz,391.56
+2015,2015-05-21,21,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-21,21,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-21,21,Débito,5,Vale,Funcionário-Marivalda,500.0
+2015,2015-05-22,22,Débito,5,Erica (2 dias + VT),Diaristas,165.0
+2015,2015-05-22,22,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-22,22,Crédito,5,Moletom + 3 camisetas ( cartão),Vendas,160.0
+2015,2015-05-22,22,Crédito,5,Moletom + 4 canecas + 2 chaveiros( cartão),Vendas,130.0
+2015,2015-05-22,22,Crédito,5,Moletom (cartão),Vendas,100.0
+2015,2015-05-22,22,Crédito,5,Moletom + camiseta (cartão),Vendas,120.0
+2015,2015-05-22,22,Crédito,5,Moletom (cartão),Vendas,100.0
+2015,2015-05-22,22,Crédito,5,Moletom (cartão),Vendas,100.0
+2015,2015-05-22,22,Crédito,5,Moletom (cartão),Vendas,100.0
+2015,2015-05-22,22,Débito,5,Juros maquina Cartão (Valdir),Compras,74.0
+2015,2015-05-25,25,Débito,5,Kalunga,Compras,41.49
+2015,2015-05-25,25,Crédito,5,Moletom,Vendas,100.0
+2015,2015-05-26,26,Débito,5,Material Limpeza,Material de Limpeza,399.2
+2015,2015-05-26,26,Débito,5,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-05-28,28,Crédito,5,Moletom (cartão),Vendas,100.0
+2015,2015-05-28,28,Crédito,5,Camiseta,Vendas,20.0
+2015,2015-05-28,28,Débito,5,Pgto Carimbo (Cefisma),Compras,92.0
+2015,2015-05-28,28,Crédito,5,Moletom (cartão),Vendas,100.0
+2015,2015-06-02,2,Débito,6,Cadeado,Compras,20.9
+2015,2015-06-02,2,Crédito,6,Camiseta (cartão),Vendas,20.0
+2015,2015-06-02,2,Crédito,6,Deposito conta do cefisma,Vendas,650.0
+2015,2015-06-02,2,Débito,6,Pgto 2º Parcela Moletons,Compras,1000.0
+2015,2015-06-03,3,Crédito,6,Moletom (cartão),Vendas,100.0
+2015,2015-06-03,3,Débito,6,Salário,Funcionário-Marivalda,1047.43
+2015,2015-06-03,3,Débito,6,DARF,JB Contabilidade,11.11
+2015,2015-06-03,3,Débito,6,FGTS,JB Contabilidade,88.9
+2015,2015-06-03,3,Débito,6,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-06-03,3,Débito,6,GPS,JB Contabilidade,397.85
+2015,2015-06-08,8,Débito,6,Material Limpeza,Material de Limpeza,435.6
+2015,2015-06-11,11,Crédito,6,Lanchonete,Aluguel,7500.0
+2015,2015-06-11,11,Débito,6,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-06-11,11,Crédito,6,Camiseta + caneca + chaveiro (cartão),Vendas,30.0
+2015,2015-06-11,11,Crédito,6,Livraria,Aluguel,1100.0
+2015,2015-06-11,11,Crédito,6,Moletom (cartão),Vendas,100.0
+2015,2015-06-12,12,Crédito,6,Moletom (cartão),Vendas,100.0
+2015,2015-06-12,12,Débito,6,Limpeza vidros (Janelas e Potas),Outras despesas,50.0
+2015,2015-06-12,12,Débito,6,Café com quantum,Outras despesas,15.89
+2015,2015-06-12,12,Débito,6,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-06-12,12,Crédito,6,Moletom,Vendas,100.0
+2015,2015-06-12,12,Crédito,6,Moletom,Vendas,100.0
+2015,2015-06-12,12,Crédito,6,Xerox,Aluguel,1448.0
+2015,2015-06-12,12,Crédito,6,4 Chaveiros,Vendas,20.0
+2015,2015-06-12,12,Débito,6,Juros maquina Cartão (Valdir),Compras,11.5
+2015,2015-06-12,12,Crédito,6,6 Chaveiros + 2 canecas,Vendas,33.0
+2015,2015-06-17,17,Débito,6,Taxa de Doc Banco,Compras,14.9
+2015,2015-06-17,17,Débito,6,Repasse (Maio/Junho),Repasse Atlética,5000.0
+2015,2015-06-19,19,Débito,6,Pgto 3º Parcela Moletons,Compras,2120.0
+2015,2015-06-19,19,Débito,6,Conta de Luz,Conta de Luz,293.9
+2015,2015-06-22,22,Crédito,6,Moletom,Vendas,90.0
+2015,2015-06-23,23,Crédito,6,Moletom,Vendas,100.0
+2015,2015-06-23,23,Crédito,6,2 Camisetas (cartão),Vendas,40.0
+2015,2015-06-24,24,Crédito,6,Moletom,Vendas,100.0
+2015,2015-06-24,24,Crédito,6,Moletom (cartão),Vendas,100.0
+2015,2015-06-25,25,Crédito,6,Camiseta (cartão),Vendas,20.0
+2015,2015-06-25,25,Crédito,6,Moletom (cartão),Vendas,100.0
+2015,2015-06-26,26,Crédito,6,Moletom,Vendas,100.0
+2015,2015-06-30,30,Crédito,6,Moletom,Vendas,100.0
+2015,2015-06-30,30,Crédito,6,5 Camisetas,Vendas,100.0
+2015,2015-07-01,1,Débito,7,Material Limpeza,Material de Limpeza,440.0
+2015,2015-07-01,1,Crédito,7,Moletom,Vendas,100.0
+2015,2015-07-02,2,Débito,7,FGTS,JB Contabilidade,88.9
+2015,2015-07-02,2,Débito,7,DARF,JB Contabilidade,11.11
+2015,2015-07-02,2,Débito,7,Salário + Vale,Funcionário-Marivalda,1572.43
+2015,2015-07-02,2,Débito,7,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-07-02,2,Débito,7,GPS,JB Contabilidade,397.85
+2015,2015-07-03,3,Débito,7,Pgto Case (mala p organizar fios e cabos de som,Compras,998.0
+2015,2015-07-03,3,Débito,7,Erica (4 dias + VT),Diaristas,334.0
+2015,2015-07-03,3,Crédito,7,Xerox,Aluguel,1448.0
+2015,2015-07-08,8,Crédito,7,Lanchonete,Aluguel,7500.0
+2015,2015-07-08,8,Débito,7,Marinalva (3 dias+ VT),Diaristas,245.0
+2015,2015-07-08,8,Crédito,7,Camiseta (cartão),Vendas,20.0
+2015,2015-07-10,10,Débito,7,Regarregador + Pilhas,Compras,85.0
+2015,2015-07-10,10,Débito,7,Equipamento Iluminação,Compras,760.0
+2015,2015-07-10,10,Débito,7,Locomoção para aquisição de equipamento,Outras despesas,94.0
+2015,2015-07-13,13,Crédito,7,Caneca,Vendas,5.0
+2015,2015-07-13,13,Crédito,7,2 Chaveiros,Vendas,10.0
+2015,2015-07-14,14,Crédito,7,Livraria,Aluguel,1100.0
+2015,2015-07-16,16,Crédito,7,2 Camisetas ,Vendas,40.0
+2015,2015-07-17,17,Débito,7,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-07-18,18,Débito,7,Conta de Luz,Conta de Luz,206.87
+2015,2015-07-20,20,Débito,7,Kalunga (livro conta corrente),Compras,8.7
+2015,2015-07-20,20,Débito,7,Vale,Funcionário-Marivalda,500.0
+2015,2015-07-20,20,Débito,7,Material Limpeza,Material de Limpeza,303.1
+2015,2015-07-24,24,Débito,7,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-07-24,24,Débito,7,Cadeado,Compras,6.0
+2015,2015-07-24,24,Débito,7,Manutenção som,Compras,410.02
+2015,2015-07-24,24,Crédito,7,Camiseta,Vendas,20.0
+2015,2015-07-24,24,Crédito,7,Moletom (cartão),Vendas,100.0
+2015,2015-07-27,27,Débito,7,Site Cefisma (trimestral),Manutenção do Site,210.0
+2015,2015-07-28,28,Crédito,7,Sacola,Vendas,7.0
+2015,2015-07-28,28,Débito,7,Repasse,Repasse Atlética,3000.0
+2015,2015-07-28,28,Crédito,7,Chaveiro,Vendas,5.0
+2015,2015-07-30,30,Crédito,7,Moletom,Vendas,100.0
+2015,2015-07-30,30,Crédito,7,Camiseta + chaveiro (cartão),Vendas,25.0
+2015,2015-07-30,30,Crédito,7,Camiseta,Vendas,20.0
+2015,2015-07-31,31,Débito,7,Marinalva (3 dias+ VT),Diaristas,245.0
+2015,2015-07-31,31,Débito,7,Reconhecer Firma,Cartório,4.8
+2015,2015-07-31,31,Crédito,7,Camiseta + 4 canetas + 2 chaveiro,Vendas,38.0
+2015,2015-08-03,3,Débito,8,Salário,Funcionário-Marivalda,1047.43
+2015,2015-08-03,3,Débito,8,DARF,JB Contabilidade,11.11
+2015,2015-08-03,3,Débito,8,FGTS,JB Contabilidade,88.9
+2015,2015-08-03,3,Débito,8,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-08-03,3,Débito,8,GPS,JB Contabilidade,397.85
+2015,2015-08-04,4,Débito,8,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-08-04,4,Débito,8,Caixa de som RMS USB,Compras,31.6
+2015,2015-08-06,6,Débito,8,Reconhecer Firma,Cartório,4.8
+2015,2015-08-07,7,Crédito,8,Camiseta,Vendas,20.0
+2015,2015-08-07,7,Crédito,8,Lanchonete,Aluguel,5250.0
+2015,2015-08-07,7,Débito,8,Registrar Ata,Cartório,67.85
+2015,2015-08-07,7,Débito,8,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-08-10,10,Débito,8,Banheiro Quimico,Eventos,650.0
+2015,2015-08-10,10,Débito,8,Material Limpeza,Material de Limpeza,283.5
+2015,2015-08-11,11,Débito,8,Comidas e bebidas,Eventos,3845.76
+2015,2015-08-11,11,Débito,8,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-08-11,11,Débito,8,Tarifa Banco(DOC),Eventos,14.9
+2015,2015-08-11,11,Débito,8,Tarifa Banco(DOC),Eventos,14.9
+2015,2015-08-11,11,Crédito,8,Moletom,Vendas,100.0
+2015,2015-08-11,11,Crédito,8,Refrigerante (Fanta),Vendas,5.0
+2015,2015-08-11,11,Débito,8,Copias Chaves,Compras,12.0
+2015,2015-08-11,11,Crédito,8,Aluguel do som (1º parcela),Vendas,140.0
+2015,2015-08-11,11,Débito,8,Comidas e bebidas,Eventos,4910.2
+2015,2015-08-11,11,Crédito,8,Camiseta,Vendas,20.0
+2015,2015-08-12,12,Crédito,8,Camiseta (cartão),Vendas,20.0
+2015,2015-08-13,13,Débito,8,Material de escritório,Compras,5.35
+2015,2015-08-13,13,Crédito,8,Moletom,Vendas,100.0
+2015,2015-08-14,14,Crédito,8,Xerox,Aluguel,1448.0
+2015,2015-08-14,14,Débito,8,Botijão de Gás,Eventos,58.0
+2015,2015-08-14,14,Débito,8,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-08-17,17,Débito,8,Limpeza vidros Secretária,Outras despesas,20.0
+2015,2015-08-18,18,Crédito,8,Aluguel som (2º parcela),Vendas,160.0
+2015,2015-08-18,18,Débito,8,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-08-18,18,Débito,8,Conta de Luz,Conta de Luz,332.42
+2015,2015-08-19,19,Crédito,8,Chaveiro,Vendas,5.0
+2015,2015-08-20,20,Crédito,8,2 Camisetas ,Vendas,40.0
+2015,2015-08-20,20,Débito,8,Vale,Funcionário-Marivalda,500.0
+2015,2015-08-21,21,Débito,8,Limpeza Festa(restante),Eventos,15.0
+2015,2015-08-21,21,Débito,8,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-08-24,24,Crédito,8,Moletom (cartão),Vendas,100.0
+2015,2015-08-24,24,Crédito,8,Camiseta (cartão),Vendas,20.0
+2015,2015-08-25,25,Débito,8,Marinalva (2 dias+ VT),Diaristas,170.0
+2015,2015-08-27,27,Crédito,8,Moletom (cheque),Vendas,100.0
+2015,2015-08-28,28,Crédito,8,2 Camisetas ,Vendas,40.0
+2015,2015-08-28,28,Débito,8,Câmeras Fotografica,Compras,1079.87
+2015,2015-08-31,31,Crédito,8,Camiseta,Vendas,20.0
+2015,2015-08-31,31,Crédito,8,Livraria,Aluguel,1100.0
+2015,2015-09-01,1,Débito,9,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-09-01,1,Crédito,9,Caneca,Vendas,5.0
+2015,2015-09-02,2,Crédito,9,Camiseta,Vendas,20.0
+2015,2015-09-02,2,Crédito,9,Camiseta (cartão),Vendas,20.0
+2015,2015-09-02,2,Crédito,9,Moletom (cartão),Vendas,100.0
+2015,2015-09-02,2,Débito,9,Salário,Funcionário-Marivalda,1047.43
+2015,2015-09-03,3,Débito,9,GPS,JB Contabilidade,397.85
+2015,2015-09-03,3,Débito,9,Café com quantum,Outras despesas,30.09
+2015,2015-09-03,3,Débito,9,Material Limpeza,Material de Limpeza,295.5
+2015,2015-09-03,3,Débito,9,DARF,JB Contabilidade,11.11
+2015,2015-09-03,3,Débito,9,FGTS,JB Contabilidade,88.9
+2015,2015-09-03,3,Débito,9,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-09-04,4,Débito,9,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-09-08,8,Crédito,9,Xerox,Aluguel,1000.0
+2015,2015-09-09,9,Débito,9,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-09-11,11,Crédito,9,Moletom (cartão),Vendas,100.0
+2015,2015-09-11,11,Crédito,9,Lanchonete,Aluguel,7500.0
+2015,2015-09-11,11,Débito,9,Ultrafarma,Compras,185.11
+2015,2015-09-11,11,Débito,9,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-09-14,14,Crédito,9,Moletom,Vendas,100.0
+2015,2015-09-15,15,Débito,9,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-09-16,16,Crédito,9,2 Camisetas ,Vendas,40.0
+2015,2015-09-16,16,Crédito,9,Camiseta,Vendas,20.0
+2015,2015-09-18,18,Débito,9,Vale,Funcionário-Marivalda,500.0
+2015,2015-09-18,18,Débito,9,Erica (4 dias + VT),Diaristas,328.0
+2015,2015-09-18,18,Débito,9,Pen-drive,Compras,17.0
+2015,2015-09-18,18,Crédito,9,Camiseta (cartão),Vendas,20.0
+2015,2015-09-18,18,Crédito,9,Chaveiro + caneca (cartão),Vendas,10.0
+2015,2015-09-19,19,Débito,9,Conta de Luz,Conta de Luz,166.21
+2015,2015-09-22,22,Débito,9,Fogão eletrico,Compras,189.0
+2015,2015-09-22,22,Crédito,9,Caneca,Vendas,5.0
+2015,2015-09-23,23,Débito,9,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-09-25,25,Crédito,9,Caneca,Vendas,5.0
+2015,2015-09-29,29,Débito,9,Cabo HDMI,Compras,37.0
+2015,2015-09-29,29,Débito,9,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-09-30,30,Débito,9,Repasse (Agosto/Setembro),Repasse Cherateria,500.0
+2015,2015-09-30,30,Débito,9,Repasse,Repasse Atlética,2740.0
+2015,2015-10-01,1,Débito,10,Manutenção som,Compras,348.6
+2015,2015-10-01,1,Débito,10,Extenção,Compras,80.0
+2015,2015-10-01,1,Débito,10,Projetor,Compras,2000.0
+2015,2015-10-02,2,Débito,10,Salário,Funcionário-Marivalda,1047.43
+2015,2015-10-02,2,Débito,10,Férias 15 dias,Funcionário-Marivalda,681.62
+2015,2015-10-02,2,Débito,10,FGTS,JB Contabilidade,88.9
+2015,2015-10-02,2,Débito,10,Material Limpeza,Material de Limpeza,419.0
+2015,2015-10-02,2,Débito,10,Rugby (EMPRESTIMO),Outras despesas,2900.0
+2015,2015-10-02,2,Débito,10,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-10-02,2,Débito,10,GPS,JB Contabilidade,397.85
+2015,2015-10-02,2,Débito,10,DARF,JB Contabilidade,11.11
+2015,2015-10-02,2,Débito,10,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-10-05,5,Débito,10,Teatro,Outras despesas,44.5
+2015,2015-10-05,5,Débito,10,Locaweb,Manutenção do Site,40.0
+2015,2015-10-06,6,Débito,10,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-10-06,6,Débito,10,Mesas Pranchão,Feira de Livros,404.0
+2015,2015-10-07,7,Crédito,10,Moletom,Vendas,100.0
+2015,2015-10-07,7,Crédito,10,Camiseta,Vendas,20.0
+2015,2015-10-08,8,Débito,10,Teatro,Outras despesas,40.0
+2015,2015-10-08,8,Débito,10,Cine-Feira,Feira de Livros,25.41
+2015,2015-10-09,9,Crédito,10,Sacola,Vendas,7.0
+2015,2015-10-09,9,Crédito,10,Lanchonete,Aluguel,6934.0
+2015,2015-10-09,9,Débito,10,Enc. Licenciatura,Doação,600.0
+2015,2015-10-09,9,Débito,10,Cesta para Sorteio,Feira de Livros,30.0
+2015,2015-10-09,9,Débito,10,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-10-13,13,Débito,10,Site Cefisma (trimestral),Manutenção do Site,210.0
+2015,2015-10-14,14,Débito,10,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-10-14,14,Crédito,10,Moletom,Vendas,100.0
+2015,2015-10-14,14,Crédito,10,Livraria,Aluguel,930.0
+2015,2015-10-14,14,Débito,10,Juros de mesas pranchão,Feira de Livros,114.0
+2015,2015-10-14,14,Débito,10,Purificador (filtro),Compras,60.8
+2015,2015-10-15,15,Débito,10,Limpeza vidros Secretária,Outras despesas,20.0
+2015,2015-10-15,15,Débito,10,Segurança (1 dia),Feira de Livros,50.0
+2015,2015-10-16,16,Débito,10,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-10-16,16,Débito,10,Mangueira,Compras,80.0
+2015,2015-10-16,16,Débito,10,Segurança (2 dias),Feira de Livros,100.0
+2015,2015-10-18,18,Débito,10,Conta de Luz,Conta de Luz,247.38
+2015,2015-10-19,19,Débito,10,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-10-19,19,Débito,10,Vale,Funcionário-Marivalda,500.0
+2015,2015-10-19,19,Crédito,10,Xerox,Aluguel,1448.0
+2015,2015-10-20,20,Crédito,10,Caneca,Vendas,5.0
+2015,2015-10-21,21,Crédito,10,Camiseta,Vendas,20.0
+2015,2015-10-22,22,Crédito,10,Camiseta (cartão),Vendas,20.0
+2015,2015-10-27,27,Débito,10,Limpeza Festa (CA),Eventos,75.0
+2015,2015-10-27,27,Débito,10,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-10-29,29,Débito,10,Onibus (BIFE),Outras despesas,4700.0
+2015,2015-10-29,29,Crédito,10,2 Canecas,Vendas,10.0
+2015,2015-10-29,29,Débito,10,Repasse,Repasse Atlética,2640.78
+2015,2015-11-03,3,Débito,11,FGTS,JB Contabilidade,103.72
+2015,2015-11-03,3,Débito,11,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-11-03,3,Débito,11,Material Limpeza,Material de Limpeza,502.6
+2015,2015-11-03,3,Crédito,11,Camiseta,Vendas,20.0
+2015,2015-11-03,3,Débito,11,Salário,Funcionário-Marivalda,1075.89
+2015,2015-11-03,3,Débito,11,GPS,JB Contabilidade,464.16
+2015,2015-11-03,3,Débito,11,DARF,JB Contabilidade,12.97
+2015,2015-11-04,4,Débito,11,Erica (4 dias + VT),Diaristas,328.0
+2015,2015-11-09,9,Crédito,11,Camiseta,Vendas,20.0
+2015,2015-11-10,10,Débito,11,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-11-13,13,Débito,11,Verniz,Compras,26.8
+2015,2015-11-13,13,Débito,11,Vanusa (4 dias + VT),Diaristas,340.0
+2015,2015-11-16,16,Crédito,11,Livraria,Aluguel,1100.0
+2015,2015-11-17,17,Débito,11,1º parcela do 13º salário,Funcionário-Marivalda,555.67
+2015,2015-11-17,17,Débito,11,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-11-18,18,Débito,11,Vale,Funcionário-Marivalda,500.0
+2015,2015-11-18,18,Crédito,11,Camiseta,Vendas,20.0
+2015,2015-11-19,19,Débito,11,Iluminação som,Compras,855.5
+2015,2015-11-19,19,Débito,11,Mesa de som,Compras,2631.0
+2015,2015-11-19,19,Débito,11,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-11-23,23,Crédito,11,Lanchonete,Aluguel,7500.0
+2015,2015-11-23,23,Débito,11,Papelaria,Compras,30.0
+2015,2015-11-23,23,Débito,11,Repasse,Repasse Atlética,2576.96
+2015,2015-11-23,23,Débito,11,Ultrafarma,Compras,131.7
+2015,2015-11-24,24,Débito,11,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-11-24,24,Débito,11,Conta de Luz,Conta de Luz,373.77
+2015,2015-11-24,24,Débito,11,Revirada Feminista,Doação,200.0
+2015,2015-11-25,25,Crédito,11,Xerox,Aluguel,1448.0
+2015,2015-11-27,27,Débito,11,Segurança Festa,Eventos,300.0
+2015,2015-11-27,27,Débito,11,Limpeza Festa,Eventos,220.0
+2015,2015-11-27,27,Crédito,11,Camiseta,Vendas,20.0
+2015,2015-11-27,27,Débito,11,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-12-02,2,Débito,12,2º parcela do 13º salário,Funcionário-Marivalda,466.76
+2015,2015-12-02,2,Débito,12,DARF,JB Contabilidade,11.11
+2015,2015-12-02,2,Débito,12,GPS,JB Contabilidade,397.85
+2015,2015-12-02,2,Débito,12,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-12-02,2,Débito,12,JB Contabilidade,JB Contabilidade,394.0
+2015,2015-12-02,2,Débito,12,FGTS,JB Contabilidade,113.36
+2015,2015-12-02,2,Débito,12,Material Limpeza,Material de Limpeza,253.0
+2015,2015-12-02,2,Débito,12,Salário,Funcionário-Marivalda,980.53
+2015,2015-12-04,4,Débito,12,Repasse (Outubro/Novembro),Repasse Cherateria,550.0
+2015,2015-12-04,4,Crédito,12,Camiseta,Vendas,20.0
+2015,2015-12-08,8,Débito,12,Futsal (REPASSE),Outras despesas,443.0
+2015,2015-12-08,8,Crédito,12,Caneca + Chaveiro,Vendas,10.0
+2015,2015-12-08,8,Crédito,12,Moletom,Vendas,100.0
+2015,2015-12-08,8,Crédito,12,2 Canecas,Vendas,10.0
+2015,2015-12-08,8,Crédito,12,Moletom,Vendas,100.0
+2015,2015-12-09,9,Débito,12,Erica (4 dias + VT),Diaristas,328.0
+2015,2015-12-11,11,Débito,12,Vanusa (2 dias + VT),Diaristas,170.0
+2015,2015-12-15,15,Débito,12,Erica (2 dias + VT),Diaristas,164.0
+2015,2015-12-16,16,Crédito,12,Moletom,Vendas,100.0
+2015,2015-12-16,16,Crédito,12,Lanchonete,Aluguel,4300.0
+2015,2015-12-16,16,Crédito,12,Moletom,Vendas,100.0
+2015,2015-12-17,17,Débito,12,DARF - Janeiro 2016,JB Contabilidade,22.23
+2015,2015-12-17,17,Débito,12,Material Limpeza,Material de Limpeza,210.6
+2015,2015-12-17,17,Débito,12,GPS - Janeiro 2016,JB Contabilidade,397.85
+2015,2015-12-17,17,Débito,12,JB Contabilidade - Janeiro 2016,JB Contabilidade,394.0
+2015,2015-12-17,17,Débito,12,FGTS - Janeiro 2016,JB Contabilidade,133.35
+2015,2015-12-17,17,Débito,12,Salário de Janeiro 2016,Funcionário-Marivalda,1531.43
+2015,2015-12-18,18,Débito,12,Conta de Luz,Conta de Luz,371.12
+2015,2015-12-18,18,Débito,12,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-01-07,7,Crédito,1,Livraria,Aluguel,1100.0
+2016,2016-01-14,14,Crédito,1,Lanchonete,Aluguel,4300.0
+2016,2016-01-15,15,Débito,1,Estante (Almoxarifado),Compras,299.88
+2016,2016-01-15,15,Débito,1,Locomoção para aquisição de equipamento,Outras despesas,18.5
+2016,2016-01-19,19,Débito,1,Marinalva (2 dias+ VT),Diaristas,170.0
+2016,2016-01-19,19,Débito,1,Vale,Funcionário-Marivalda,500.0
+2016,2016-01-26,26,Débito,1,Chaveiro (Kit bixo),Compras,400.0
+2016,2016-01-26,26,Débito,1,Porta (Almoxarifado),Compras,720.0
+2016,2016-01-26,26,Débito,1,Caneca (Kit bixo),Compras,416.6
+2016,2016-01-28,28,Débito,1,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-01-28,28,Débito,1,Glitter (bixo),Compras,68.0
+2016,2016-01-28,28,Débito,1,Tintas guache (bixo),Compras,66.2
+2016,2016-01-28,28,Débito,1,Boleto Uol (ANUAL),Manutenção do Site,175.0
+2016,2016-02-01,1,Crédito,2,2 Camisetas,Vendas,40.0
+2016,2016-02-01,1,Débito,2,Repasse (Dezembro 2015),Repasse Atlética,2000.0
+2016,2016-02-02,2,Crédito,2,Camiseta,Vendas,20.0
+2016,2016-02-02,2,Crédito,2,6 Chaveiros,Vendas,30.0
+2016,2016-02-02,2,Crédito,2,2 Camisetas,Vendas,40.0
+2016,2016-02-02,2,Débito,2,Repasse (Dezembro 2015),Repasse Atlética,790.0
+2016,2016-02-03,3,Débito,2,DARF,JB Contabilidade,11.11
+2016,2016-02-03,3,Crédito,2,Camiseta,Vendas,20.0
+2016,2016-02-03,3,Débito,2,Repelente ,Compras,23.59
+2016,2016-02-03,3,Crédito,2,Caneca,Vendas,5.0
+2016,2016-02-03,3,Débito,2,JB Contabilidade,JB Contabilidade,440.0
+2016,2016-02-03,3,Débito,2,FGTS,JB Contabilidade,88.9
+2016,2016-02-03,3,Débito,2,Futebol de Sabão Festa dos bixos(ADIANTAMENTO),Eventos,190.0
+2016,2016-02-03,3,Crédito,2,2 Camisetas,Vendas,40.0
+2016,2016-02-03,3,Débito,2,GPS,JB Contabilidade,397.85
+2016,2016-02-03,3,Crédito,2,Camiseta,Vendas,20.0
+2016,2016-02-03,3,Débito,2,Salário,Funcionário-Marivalda,1040.0
+2016,2016-02-03,3,Crédito,2,3 Canecas,Vendas,15.0
+2016,2016-02-03,3,Débito,2,Raquete (mosquito),Compras,40.0
+2016,2016-02-04,4,Crédito,2,6 Canetas,Vendas,12.0
+2016,2016-02-04,4,Crédito,2,3 Sacolas,Vendas,21.0
+2016,2016-02-04,4,Débito,2,Crafit,Compras,47.9
+2016,2016-02-04,4,Débito,2,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-02-04,4,Crédito,2,2 Chaveiros,Vendas,10.0
+2016,2016-02-04,4,Crédito,2,Camiseta (cartão),Vendas,20.0
+2016,2016-02-04,4,Crédito,2,4 Canecas,Vendas,20.0
+2016,2016-02-04,4,Crédito,2,Lanchonete,Aluguel,4300.0
+2016,2016-02-05,5,Débito,2,Tesoura (kalunga),Compras,33.1
+2016,2016-02-10,10,Crédito,2,Livraria,Aluguel,1100.0
+2016,2016-02-11,11,Crédito,2,Vendas matricula bixo ,Vendas,1557.0
+2016,2016-02-11,11,Débito,2,Futebol de Sabão (RESTANTE),Eventos,300.0
+2016,2016-02-11,11,Débito,2,Material Limpeza,Material de Limpeza,266.7
+2016,2016-02-11,11,Débito,2,Comidas e bebidas,Compras,981.94
+2016,2016-02-11,11,Crédito,2,Vendas matricula bixo (cartão),Vendas,1130.0
+2016,2016-02-12,12,Crédito,2,Vendas (cartão),Vendas,55.0
+2016,2016-02-12,12,Crédito,2,Vendas,Vendas,140.0
+2016,2016-02-12,12,Débito,2,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-02-15,15,Crédito,2,Kit bixo,Vendas,35.0
+2016,2016-02-16,16,Débito,2,Aparelho de telefone,Compras,110.0
+2016,2016-02-17,17,Crédito,2,Kit bixo,Vendas,35.0
+2016,2016-02-17,17,Débito,2,Site Cefisma (trimestral),Manutenção do Site,210.0
+2016,2016-02-17,17,Débito,2,Banheiro Quimico,Eventos,520.0
+2016,2016-02-17,17,Débito,2,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-02-17,17,Débito,2,Extintores,Compras,160.0
+2016,2016-02-18,18,Crédito,2,Aluguel microfone,Vendas,40.0
+2016,2016-02-19,19,Débito,2,Vale,Funcionário-Marivalda,500.0
+2016,2016-02-19,19,Crédito,2,Kit bixo + moletom,Vendas,135.0
+2016,2016-02-19,19,Débito,2,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-02-22,22,Crédito,2,Camiseta,Vendas,20.0
+2016,2016-02-22,22,Crédito,2,Kit bixo,Vendas,35.0
+2016,2016-02-22,22,Crédito,2,Kit bixo,Vendas,35.0
+2016,2016-02-22,22,Débito,2,Ban-aid,Compras,19.13
+2016,2016-02-23,23,Débito,2,Conta de Luz,Conta de Luz,22.55
+2016,2016-02-23,23,Débito,2,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-02-23,23,Débito,2,Repasse (Janeiro/Fevereiro),Repasse Cherateria,500.0
+2016,2016-02-23,23,Débito,2,Bolachas (festa),Compras,12.47
+2016,2016-02-23,23,Crédito,2,Kit bixo,Vendas,35.0
+2016,2016-02-23,23,Débito,2,Relógio de parede,Compras,39.9
+2016,2016-02-25,25,Crédito,2,Camiseta,Vendas,20.0
+2016,2016-02-25,25,Débito,2,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-02-25,25,Crédito,2,Kit bixo,Vendas,35.0
+2016,2016-02-25,25,Crédito,2,Moletom,Vendas,100.0
+2016,2016-02-25,25,Crédito,2,Camiseta,Vendas,20.0
+2016,2016-02-26,26,Débito,2,Termometro,Compras,14.901
+2016,2016-02-26,26,Crédito,2,Kit bixo,Vendas,35.0
+2016,2016-02-26,26,Crédito,2,Xerox (Ref. DEZEMBRO DE 2015),Aluguel,1010.0
+2016,2016-02-29,29,Débito,2,Fiação eletrica,Compras,750.0
+2016,2016-02-29,29,Crédito,2,Kit bixo,Vendas,35.0
+2016,2016-03-02,2,Débito,3,FGTS,JB Contabilidade,88.9
+2016,2016-03-02,2,Débito,3,GPS,JB Contabilidade,397.85
+2016,2016-03-02,2,Débito,3,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-03-02,2,Crédito,3,Aluguel caixa de som,Vendas,40.0
+2016,2016-03-02,2,Crédito,3,Aluguel microfone,Vendas,50.0
+2016,2016-03-02,2,Crédito,3,Caneca,Vendas,5.0
+2016,2016-03-02,2,Crédito,3,Moletom (cartão),Vendas,100.0
+2016,2016-03-02,2,Débito,3,Salário,Funcionário-Marivalda,1090.0
+2016,2016-03-02,2,Débito,3,JB Contabilidade,JB Contabilidade,440.0
+2016,2016-03-02,2,Débito,3,DARF,JB Contabilidade,11.11
+2016,2016-03-03,3,Débito,3,Material Limpeza,Material de Limpeza,443.8
+2016,2016-03-03,3,Crédito,3,Caneca,Vendas,5.0
+2016,2016-03-04,4,Débito,3,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-03-04,4,Débito,3,Dobradiça (armário),Compras,28.2
+2016,2016-03-07,7,Crédito,3,Livraria,Aluguel,1100.0
+2016,2016-03-07,7,Crédito,3,Camiseta,Vendas,20.0
+2016,2016-03-08,8,Débito,3,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-03-08,8,Crédito,3,Camiseta,Vendas,20.0
+2016,2016-03-10,10,Crédito,3,Moletom (cartão),Vendas,100.0
+2016,2016-03-10,10,Crédito,3,Camiseta,Vendas,20.0
+2016,2016-03-10,10,Crédito,3,Camiseta,Vendas,20.0
+2016,2016-03-11,11,Débito,3,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-03-11,11,Débito,3,Fita adsiva,Compras,14.0
+2016,2016-03-14,14,Crédito,3,Kit bixo (catão),Vendas,35.0
+2016,2016-03-14,14,Crédito,3,Lanchonete,Aluguel,7300.0
+2016,2016-03-16,16,Débito,3,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-03-16,16,Crédito,3,Lanchonete (Restante),Aluguel,200.0
+2016,2016-03-16,16,Débito,3,Repasse (Março),Repasse Cherateria,250.0
+2016,2016-03-17,17,Crédito,3,Aluguel caixa de som,Vendas,100.0
+2016,2016-03-18,18,Débito,3,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-03-18,18,Débito,3,Vale,Funcionário-Marivalda,600.0
+2016,2016-03-22,22,Débito,3,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-03-22,22,Débito,3,Locomoção para aquisição de equipamento,Outras despesas,40.0
+2016,2016-03-22,22,Débito,3,Piso sala de TV,Compras,716.8
+2016,2016-03-24,24,Débito,3,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-03-24,24,Débito,3,Mosaico Azuleijos,Compras,215.3
+2016,2016-03-28,28,Crédito,3,2 Camisetas,Vendas,40.0
+2016,2016-03-28,28,Crédito,3,2 Camisetas,Vendas,40.0
+2016,2016-03-29,29,Crédito,3,Caneca,Vendas,5.0
+2016,2016-03-29,29,Débito,3,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-04-01,1,Crédito,4,Xerox (Ref.JANEIRO),Aluguel,1000.0
+2016,2016-04-01,1,Débito,4,Salário,Funcionário-Marivalda,940.0
+2016,2016-04-01,1,Débito,4,Ultrafarma,Compras,200.49
+2016,2016-04-01,1,Débito,4,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-04-04,4,Débito,4,DARF,JB Contabilidade,11.11
+2016,2016-04-04,4,Débito,4,JB Contabilidade,JB Contabilidade,440.0
+2016,2016-04-04,4,Débito,4,GPS,JB Contabilidade,397.85
+2016,2016-04-04,4,Débito,4,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-04-04,4,Débito,4,FGTS,JB Contabilidade,88.9
+2016,2016-04-07,7,Crédito,4,Livraria,Aluguel,1100.0
+2016,2016-04-07,7,Crédito,4,Lanchonete,Aluguel,7500.0
+2016,2016-04-08,8,Débito,4,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-04-08,8,Débito,4,Material Limpeza,Material de Limpeza,510.8
+2016,2016-04-08,8,Crédito,4,Xerox (Ref.FEVEREIRO),Aluguel,1000.0
+2016,2016-04-11,11,Crédito,4,2 Moletons + 2 camisetas,Vendas,240.0
+2016,2016-04-11,11,Crédito,4,2 Moletons + 3 camisetas,Vendas,260.0
+2016,2016-04-11,11,Crédito,4,2 Camisetas,Vendas,40.0
+2016,2016-04-11,11,Crédito,4,Caneca,Vendas,5.0
+2016,2016-04-12,12,Crédito,4,2 Camisetas + chaveiro + caneca,Vendas,50.0
+2016,2016-04-12,12,Débito,4,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-04-12,12,Crédito,4,Camiseta (cartão),Vendas,20.0
+2016,2016-04-13,13,Débito,4,Vale,Funcionário-Marivalda,500.0
+2016,2016-04-15,15,Crédito,4,Aluguel 2 microfones,Vendas,20.0
+2016,2016-04-15,15,Débito,4,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-04-18,18,Débito,4,Pastas de arquivos(kalunga),Compras,73.8
+2016,2016-04-19,19,Débito,4,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-04-20,20,Débito,4,Arquivo morto (documentos),Compras,389.99
+2016,2016-04-20,20,Débito,4,Repasse (Abril),Repasse Cherateria,250.0
+2016,2016-04-20,20,Débito,4,Vanusa (1 dia + VT),Diaristas,85.0
+2016,2016-04-26,26,Débito,4,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-04-26,26,Débito,4,Conta de Luz,Conta de Luz,27.47
+2016,2016-04-26,26,Débito,4,Conta de Luz (Outubro de 2013),Conta de Luz,347.62
+2016,2016-04-27,27,Débito,4,Frete Arquivo,Compras,30.0
+2016,2016-04-27,27,Débito,4,Sacos Arquivos (kalunga),Compras,45.5
+2016,2016-04-28,28,Débito,4,Site Cefisma (trimestral),Manutenção do Site,210.0
+2016,2016-04-29,29,Crédito,4,Moletom (cartão),Vendas,100.0
+2016,2016-04-29,29,Crédito,4,Moletom,Vendas,100.0
+2016,2016-04-29,29,Débito,4,Vanusa (3 dias + VT),Diaristas,255.0
+2016,2016-05-02,2,Débito,5,Salário,Funcionário-Marivalda,1037.83
+2016,2016-05-02,2,Débito,5,Repasse (Janeiro/Fevereiro),Repasse Atlética,5450.0
+2016,2016-05-02,2,Débito,5,FGTS,JB Contabilidade,88.9
+2016,2016-05-02,2,Débito,5,GPS,JB Contabilidade,397.85
+2016,2016-05-02,2,Débito,5,JB Contabilidade,JB Contabilidade,440.0
+2016,2016-05-02,2,Débito,5,DARF,JB Contabilidade,11.11
+2016,2016-05-03,3,Débito,5,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-05-03,3,Débito,5,Material Limpeza,Material de Limpeza,454.9
+2016,2016-05-04,4,Débito,5,Aluguel Sitio (TIFE) Adiantamento,Outras despesas,400.0
+2016,2016-05-04,4,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-04,4,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-04,4,Crédito,5,Moletom (cartão),Vendas,100.0
+2016,2016-05-04,4,Crédito,5,Camiseta (cartão),Vendas,20.0
+2016,2016-05-05,5,Crédito,5,Lanchonete,Aluguel,7500.0
+2016,2016-05-06,6,Débito,5,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-05-06,6,Crédito,5,Livraria,Aluguel,1100.0
+2016,2016-05-09,9,Débito,5,Banheiro Quimico,Eventos,520.0
+2016,2016-05-10,10,Débito,5,Repasse (Março),Repasse Atlética,2500.0
+2016,2016-05-10,10,Crédito,5,2 Moletons,Vendas,200.0
+2016,2016-05-10,10,Crédito,5,2 Moletons,Vendas,200.0
+2016,2016-05-10,10,Débito,5,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-05-12,12,Débito,5,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-05-12,12,Crédito,5,Xerox (Ref.MARÇO),Aluguel,1448.0
+2016,2016-05-13,13,Crédito,5,Camiseta (cartão),Vendas,20.0
+2016,2016-05-13,13,Crédito,5,Moletom (cartão),Vendas,100.0
+2016,2016-05-13,13,Débito,5,Escola de Aplicação,Doação,200.0
+2016,2016-05-13,13,Débito,5,Vale,Funcionário-Marivalda,500.0
+2016,2016-05-16,16,Crédito,5,2 Camisetas + 5 canecas,Vendas,80.0
+2016,2016-05-17,17,Crédito,5,Encontrado no antigo arquivo,Vendas,60.0
+2016,2016-05-17,17,Débito,5,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-05-17,17,Débito,5,Portagem (cartaz),Compras,15.0
+2016,2016-05-19,19,Débito,5,Café com quantum,Outras despesas,46.81
+2016,2016-05-19,19,Débito,5,Descartáveis,Eventos,236.3
+2016,2016-05-19,19,Débito,5,Comidas e bebidas,Eventos,419.89
+2016,2016-05-20,20,Débito,5,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-05-23,23,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-23,23,Débito,5,Repasse (Abril),Repasse Atlética,2290.0
+2016,2016-05-23,23,Débito,5,Limpeza Festa 20/05/2016 (RESTANTE PGATO),Eventos,30.0
+2016,2016-05-23,23,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-23,23,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-23,23,Crédito,5,Moletom (cartão),Vendas,100.0
+2016,2016-05-23,23,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-23,23,Débito,5,Moletons,Compras,2635.0
+2016,2016-05-23,23,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-23,23,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-23,23,Débito,5,Repasse (Abril),Repasse Atlética,500.0
+2016,2016-05-23,23,Crédito,5,Moletom (cartão),Vendas,100.0
+2016,2016-05-23,23,Crédito,5,Moletom (cartão),Vendas,100.0
+2016,2016-05-24,24,Débito,5,Repasse (Maio),Repasse Cherateria,250.0
+2016,2016-05-24,24,Débito,5,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-05-24,24,Débito,5,Panificadora Estrela ,Compras,416.0
+2016,2016-05-24,24,Débito,5,Supermercado do Padrão ,Compras,107.13
+2016,2016-05-25,25,Débito,5,Aluguel Sitio (TIFE) ,Outras despesas,2100.0
+2016,2016-05-25,25,Crédito,5,Moletom (cartão),Vendas,100.0
+2016,2016-05-25,25,Crédito,5,Moletom,Vendas,100.0
+2016,2016-05-25,25,Débito,5,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-05-29,29,Débito,5,Repasse (Mensal+Semestral),Repasse Cherateria,700.0
+2016,2016-05-31,31,Débito,5,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-06-01,1,Débito,6,Lanches ,Compras,140.0
+2016,2016-06-02,2,Débito,6,GPS,JB Contabilidade,501.2
+2016,2016-06-02,2,Débito,6,Salário,Funcionário-Marivalda,1400.0
+2016,2016-06-02,2,Débito,6,JB Contabilidade,JB Contabilidade,440.0
+2016,2016-06-02,2,Débito,6,FGTS,JB Contabilidade,112.0
+2016,2016-06-02,2,Débito,6,DARF,JB Contabilidade,14.0
+2016,2016-06-03,3,Débito,6,Vanusa (3 dias + VT),Diaristas,250.0
+2016,2016-06-06,6,Crédito,6,Moletom,Vendas,115.0
+2016,2016-06-06,6,Débito,6,Material Limpeza,Material de Limpeza,370.0
+2016,2016-06-07,7,Débito,6,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-06-07,7,Crédito,6,Livraria,Aluguel,1100.0
+2016,2016-06-07,7,Crédito,6,Moletom (cartão),Vendas,115.0
+2016,2016-06-08,8,Débito,6,Comidas ,Compras,270.0
+2016,2016-06-08,8,Crédito,6,Lanchonete,Aluguel,7500.0
+2016,2016-06-08,8,Crédito,6,Moletom,Vendas,115.0
+2016,2016-06-09,9,Débito,6,Papelaria  ,Compras,39.88
+2016,2016-06-09,9,Débito,6,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-06-09,9,Débito,6,Repasse (Maio),Repasse Atlética,2000.0
+2016,2016-06-09,9,Crédito,6,Moletom,Vendas,115.0
+2016,2016-06-12,12,Débito,6,Leroy Merlin,Compras,57.58
+2016,2016-06-14,14,Débito,6,Repasse (Maio),Repasse Atlética,790.0
+2016,2016-06-14,14,Débito,6,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-06-14,14,Débito,6,Vale,Funcionário-Marivalda,600.0
+2016,2016-06-16,16,Crédito,6,Moletom,Vendas,115.0
+2016,2016-06-16,16,Débito,6,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-06-20,20,Crédito,6,Moletom (cartão),Vendas,115.0
+2016,2016-06-20,20,Crédito,6,Moletom (cartão),Vendas,115.0
+2016,2016-06-21,21,Crédito,6,3 Camisetas,Vendas,60.0
+2016,2016-06-21,21,Débito,6,Repasse (Junho),Repasse Atlética,2500.0
+2016,2016-06-21,21,Débito,6,Moletons,Compras,1201.0
+2016,2016-06-21,21,Débito,6,Ultrafarma,Compras,199.87
+2016,2016-06-21,21,Crédito,6,Moletom (cartão),Vendas,115.0
+2016,2016-06-21,21,Débito,6,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-06-22,22,Crédito,6,Moletom,Vendas,115.0
+2016,2016-06-23,23,Débito,6,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-06-24,24,Crédito,6,Bebida,Vendas,12.0
+2016,2016-06-27,27,Crédito,6,2 Moletons (cartão),Vendas,200.0
+2016,2016-06-27,27,Débito,6,Movimento Negro,Doação,200.0
+2016,2016-06-28,28,Débito,6,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-06-29,29,Débito,6,Carrefour (ban-aid + desodorante),Compras,16.7
+2016,2016-06-30,30,Débito,6,Lanches ,Compras,174.47
+2016,2016-06-30,30,Crédito,6,Moletom + aluguel 3 microfones,Vendas,175.0
+2016,2016-07-01,1,Débito,7,Salário,Funcionário-Marivalda,1400.0
+2016,2016-07-01,1,Débito,7,Limpeza vidros (Janelas e Potas),Outras despesas,50.0
+2016,2016-07-01,1,Débito,7,Mercado Violeta,Eventos,1853.08
+2016,2016-07-01,1,Crédito,7,Xerox (Ref. (ABRIL),Aluguel,1448.0
+2016,2016-07-01,1,Débito,7,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-07-05,5,Débito,7,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-07-05,5,Débito,7,GPS,JB Contabilidade,501.2
+2016,2016-07-05,5,Débito,7,JB Contabilidade,JB Contabilidade,440.0
+2016,2016-07-05,5,Débito,7,FGTS,JB Contabilidade,112.0
+2016,2016-07-05,5,Débito,7,DARF,JB Contabilidade,14.0
+2016,2016-07-05,5,Débito,7,Material Limpeza,Material de Limpeza,521.15
+2016,2016-07-06,6,Crédito,7,Livraria,Aluguel,1100.0
+2016,2016-07-07,7,Débito,7,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-07-08,8,Crédito,7,Camiseta,Vendas,20.0
+2016,2016-07-08,8,Crédito,7,Moletom (cartão),Vendas,100.0
+2016,2016-07-11,11,Débito,7,Moletons,Compras,728.0
+2016,2016-07-12,12,Crédito,7,Camiseta + caneca + chaveiro (cartão),Vendas,30.0
+2016,2016-07-12,12,Crédito,7,Camiseta + caneca ,Vendas,25.0
+2016,2016-07-12,12,Crédito,7,Camiseta + caneca (cartão),Vendas,25.0
+2016,2016-07-12,12,Crédito,7,Camiseta + caneca (cartão),Vendas,25.0
+2016,2016-07-12,12,Crédito,7,Camiseta + 5 canetas + caneca + chaveiro (cartão),Vendas,40.0
+2016,2016-07-12,12,Débito,7,Adriana (2 dias + VT),Diaristas,170.0
+2016,2016-07-12,12,Crédito,7,Camiseta + 5 canetas + caneca (cartão),Vendas,35.0
+2016,2016-07-14,14,Crédito,7,Moletom,Vendas,115.0
+2016,2016-07-14,14,Crédito,7,Moletom,Vendas,115.0
+2016,2016-07-14,14,Crédito,7,Moletom (cartão),Vendas,115.0
+2016,2016-07-14,14,Crédito,7,Chaveiro,Vendas,5.0
+2016,2016-07-14,14,Crédito,7,5 Chaveiros,Vendas,25.0
+2016,2016-07-14,14,Débito,7,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-07-15,15,Débito,7,Vale,Funcionário-Marivalda,600.0
+2016,2016-07-18,18,Crédito,7,Lanchonete,Aluguel,5250.0
+2016,2016-07-18,18,Débito,7,Kalunga,Compras,106.6
+2016,2016-07-19,19,Débito,7,Adriana (2 dias + VT),Diaristas,160.0
+2016,2016-07-19,19,Crédito,7,Moletom (cartão),Vendas,115.0
+2016,2016-07-20,20,Débito,7,Site Cefisma (trimestral),Manutenção do Site,210.0
+2016,2016-07-20,20,Débito,7,Repasse Mensal (Julho),Repasse Cherateria,250.0
+2016,2016-07-21,21,Crédito,7,4 Chaveiros + caneca + 2 canetas (cartão),Vendas,29.0
+2016,2016-07-21,21,Crédito,7,Chaveiro,Vendas,5.0
+2016,2016-07-22,22,Débito,7,Repasse (Junho),Repasse Atlética,290.0
+2016,2016-07-22,22,Crédito,7,Camiseta (cartão),Vendas,20.0
+2016,2016-07-22,22,Débito,7,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-07-25,25,Crédito,7,Camiseta,Vendas,20.0
+2016,2016-07-25,25,Crédito,7,Moletom + caneca (cartão),Vendas,120.0
+2016,2016-07-25,25,Crédito,7,Camiseta + chaveiro ,Vendas,25.0
+2016,2016-07-26,26,Débito,7,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-07-29,29,Débito,7,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-07-29,29,Crédito,7,Moletom (cartão),Vendas,115.0
+2016,2016-07-29,29,Crédito,7,Moletom (cartão),Vendas,115.0
+2016,2016-08-01,1,Crédito,8,Xerox (Re. MAIO + JUNHO(com desc. 40%),Aluguel,1824.8
+2016,2016-08-01,1,Débito,8,DARF,JB Contabilidade,14.0
+2016,2016-08-01,1,Débito,8,Salário,Funcionário-Marivalda,1324.41
+2016,2016-08-01,1,Débito,8,GPS,JB Contabilidade,501.2
+2016,2016-08-01,1,Débito,8,JB Contabilidade,JB Contabilidade,440.0
+2016,2016-08-01,1,Débito,8,FGTS,JB Contabilidade,112.0
+2016,2016-08-02,2,Débito,8,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-08-03,3,Crédito,8,Chaveiro + caneca (cartão),Vendas,10.0
+2016,2016-08-03,3,Crédito,8,Moletom + chaveiro + 2 canetas,Vendas,124.0
+2016,2016-08-04,4,Débito,8,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-08-05,5,Crédito,8,Lanchonete,Aluguel,7100.0
+2016,2016-08-05,5,Débito,8,Material Limpeza,Material de Limpeza,450.0
+2016,2016-08-08,8,Crédito,8,Moletom (cartão),Vendas,115.0
+2016,2016-08-08,8,Crédito,8,Livraria,Aluguel,1100.0
+2016,2016-08-09,9,Crédito,8,2 Canecas,Vendas,10.0
+2016,2016-08-09,9,Débito,8,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-08-10,10,Débito,8,Banheiro Quimico,Eventos,520.0
+2016,2016-08-11,11,Débito,8,Roldão,Eventos,458.75
+2016,2016-08-11,11,Crédito,8,Moletom,Vendas,110.0
+2016,2016-08-12,12,Débito,8,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-08-12,12,Débito,8,Iluminação som,Compras,199.6
+2016,2016-08-16,16,Débito,8,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-08-16,16,Crédito,8,2 Canecas,Vendas,10.0
+2016,2016-08-17,17,Crédito,8,Moletom + camiseta + caneca (cartão),Vendas,140.0
+2016,2016-08-17,17,Crédito,8,Moletom,Vendas,115.0
+2016,2016-08-18,18,Débito,8,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-08-18,18,Débito,8,Repasse (julho),Repasse Atlética,2500.0
+2016,2016-08-19,19,Débito,8,Repasse julho (restante),Repasse Atlética,290.0
+2016,2016-08-22,22,Crédito,8,Moletom (cartão),Vendas,115.0
+2016,2016-08-23,23,Débito,8,Adriana (2 dias + VT),Diaristas,165.2
+2016,2016-08-25,25,Débito,8,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-08-26,26,Débito,8,Repasse Mensal (Agosto),Repasse Cherateria,250.0
+2016,2016-08-30,30,Débito,8,Adriana (2 dias + VT),Diaristas,170.0
+2016,2016-09-01,1,Débito,9,GPS,JB Contabilidade,501.2
+2016,2016-09-01,1,Débito,9,JB Contabilidade,JB Contabilidade,440.0
+2016,2016-09-01,1,Débito,9,FGTS,JB Contabilidade,112.0
+2016,2016-09-01,1,Débito,9,DARF,JB Contabilidade,14.0
+2016,2016-09-01,1,Débito,9,Salário,Funcionário-Marivalda,1269.07
+2016,2016-09-01,1,Débito,9,Vanusa (2 dias + VT),Diaristas,170.0
+2016,2016-09-05,5,Débito,9,Ultrafarma,Compras,173.77
+2016,2016-09-06,6,Débito,9,Adriana (2 dias + VT),Diaristas,160.0
+2016,2016-09-06,6,Débito,9,Material Limpeza,Material de Limpeza,460.0
+2016,2016-09-08,8,Débito,9,Moletons,Compras,930.0
+2016,2016-09-09,9,Débito,9,Vanusa (2 dias + VT),Diaristas,170.0
