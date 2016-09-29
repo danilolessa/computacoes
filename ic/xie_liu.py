@@ -77,8 +77,8 @@ def do_work(path):
     Fdn_clr = dataset["clearsky_downwelling_shortwave"][:]
     Fdn_all = dataset["downwelling_shortwave"][:]
     Fup_all = dataset["upwelling_shortwave"][:]
-    Fdn_clr_d = dataset["clearsky_diffuse_downwelling_shortwave"][:]
-    Fdn_all_d = dataset["diffuse_downwelling_shortwave"][:]
+    Fdn_clr_d = dataset["clearsky_direct_downwelling_shortwave"][:]
+    Fdn_all_d = dataset["direct_downwelling_shortwave"][:]
     T = dataset["cloud_transmissivity_shortwave"][:]
     solar_zen_cosine = dataset["cosine_zenith"][:]
 
