@@ -7,6 +7,7 @@ import numpy as np
 import netCDF4 as nc
 import os
 import pandas as pd
+import scipy.optimize as opt
 
 __author__ = "Danilo Lessa Bernardineli"
 __email__ = "danilo.bernardineli@usp.br"
@@ -22,10 +23,16 @@ def get_B(Fdn_clr, Fdn_all, Fup_all, Fdn_clr_d, Fdn_all_d, T):
     Fdn_all_d -- Diffuse downward flux
     T -- Cloud transmissibility
     """
+
     B1 = (Fdn_clr - Fdn_all) / (Fdn_clr - Fup_all * T * T)
     B2 = (Fdn_clr_d - Fdn_all_d) / Fdn_clr_d
     return (B1, B2)
 
+def cloud_albedo_func(alfa_r, B1, B2):
+    g = 0.87
+    termo = 1 - np.exp(-2 * alfa_r / ((1 - alfa_r) * (1 - g)))
+    return (alfa_r / termo) - B1 / B2
+cloud_albedo_func = np.vectorize(cloud_albedo_func)
 
 def get_cloud_albedo(B1, B2):
     """Calculates an aproximate cloud albedo value using the development in
@@ -37,6 +44,15 @@ def get_cloud_albedo(B1, B2):
     if (B1 * B2 == 0):
         return 0
 
+    e = 1e-14
+    if (0 <= B1 <= 1) and (0 <= B2 <= 1) and (0.066 < B1 / B2 <= 1.0):
+        if B1 == B2:
+            return 1.0
+        return opt.brentq(cloud_albedo_func, 0+e, 1-e, args=(B1, B2))
+    else:
+        raise ValueError("B1 or B2 outside boundary")
+
+    """
     B_frac = B1 / B2
     if (0.07 < B_frac < 0.07872):
         return 0
@@ -56,6 +72,7 @@ def get_cloud_albedo(B1, B2):
         print(B2)
         print(B_frac)
         raise ValueError("B_frac is not valid")
+    """
 get_cloud_albedo = np.vectorize(get_cloud_albedo)
 
 
