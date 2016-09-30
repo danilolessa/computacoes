@@ -25,6 +25,7 @@ def get_B(Fdn_clr, Fdn_all, Fup_all, Fdn_clr_d, Fdn_all_d, T):
     """
 
     B1 = (Fdn_clr - Fdn_all) / (Fdn_clr - Fup_all * T * T)
+    B1[B1 < 0] = 0
     B2 = (Fdn_clr_d - Fdn_all_d) / Fdn_clr_d
     return (B1, B2)
 
@@ -50,7 +51,7 @@ def get_cloud_albedo(B1, B2):
             return 1.0
         return opt.brentq(cloud_albedo_func, 0+e, 1-e, args=(B1, B2))
     else:
-        raise ValueError("B1 or B2 outside boundary")
+        return -1
 
     """
     B_frac = B1 / B2
