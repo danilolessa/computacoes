@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<table>
+  <tr>
+    <th>Datetime (UTC -3)</th>
+    <th>Pressure (hPa)</th>
+    <th>Humidity (%)</th>
+    <th>Temperature (BMP180) (ºC)</th>
+    <th>Temperature (DHT22) (ºC)</th>
+  </tr>
+  <tr>
+    {% for it in measures %}
+    <td>
+      {{ it }}
+    </td>
+    {% endfor %}
+  </tr>
+</table>
+
+{% endblock %}
