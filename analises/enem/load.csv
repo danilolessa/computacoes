@@ -1,0 +1,11 @@
+ LOAD CSV  
+      FROM '/home/danilo/playground/enem/microdados.csv' WITH ENCODING 'LATIN1'
+      INTO postgresql:///danilo?enem2014
+ 
+      WITH truncate,  
+           fields terminated by ','  
+ 
+       SET client_encoding to 'LATIN1',  
+           work_mem to '12MB',  
+           standard_conforming_strings to 'on'  
+;
