@@ -15,15 +15,17 @@ __email__ = "danilo.bernardineli@usp.br"
 g = 0.87
 e = 1e-14
 
+
 def vector_solve(A, B, f):
     if len(A) != len(B):
         return None
     n = len(A)
     mtr = np.zeros(n)
     for i in range(0, n):
-        mtr[i] = opt.brentq(f, 0+e, 1-e, args=(A[i], B[i]))
+        mtr[i] = opt.brentq(f, 0 + e, 1 - e, args=(A[i], B[i]))
 
     return mtr
+
 
 def get_B(Fdn_clr, Fdn_all, Fup_all, Fdn_clr_d, Fdn_all_d, T):
     """Obtains B1 and B2 parameter used in Xie & Liu 2013 paper (eq 13).
@@ -45,7 +47,8 @@ def get_B(Fdn_clr, Fdn_all, Fup_all, Fdn_clr_d, Fdn_all_d, T):
 
 
 def cloud_albedo_func(alfa_r, B1, B2):
-    """Cloud albedo function -- used for obtaining the cloud albedo through some root finding method.
+    """Cloud albedo function -- used for obtaining the cloud albedo through some
+    root finding method.
     Keyword Arguments:
     alfa_r -- Cloud albedo
     B1 -- ...
@@ -61,7 +64,8 @@ def get_cloud_albedo(B1, B2):
     Keyword arguments:
     B1 -- B1 parameter from get_B function
     B2 -- B2 parameter from get_B function"""
-    invalid_inds = (B1 < 0) | (B1 > 1) | (B2 < 0) | (B2 > 1) | (B1 / B2 > 1.0) | (B1 / B2 < 0.068)
+    invalid_inds = (B1 < 0) | (B1 > 1) | (B2 < 0) | (
+        B2 > 1) | (B1 / B2 > 1.0) | (B1 / B2 < 0.068)
     zero_inds = ((B2 == 0) | (B1 == 0)) & (~invalid_inds)
     one_inds = (B1 == B2) & (~invalid_inds)
     calc_inds = (~one_inds) & (~zero_inds) & (~invalid_inds)
@@ -91,7 +95,7 @@ def get_cloud_fraction(cloud_albedo, B1):
 
 def do_work(path):
     """Do all hard work for a file."""
-    #Variable loading
+    # Variable loading
     dataset = nc.Dataset(path, "r")
     base_time = dataset["base_time"][0]
     time_offset = dataset["time_offset"][:]
@@ -103,12 +107,12 @@ def do_work(path):
     T = dataset["cloud_transmissivity_shortwave"][:]
     solar_zen_cosine = dataset["cosine_zenith"][:]
 
-    #Obtaining cloud albedo
+    # Obtaining cloud albedo
     (B1, B2) = get_B(Fdn_clr, Fdn_all, Fup_all, Fdn_clr_d, Fdn_all_d, T)
     cloud_albedo = get_cloud_albedo(B1, B2)
     cloud_albedo_cor = cloud_albedo_correction(cloud_albedo, solar_zen_cosine)
 
-    #Obtaining CF
+    # Obtaining CF
     CF1 = get_cloud_fraction(cloud_albedo, B1)
     CF2 = get_cloud_fraction(cloud_albedo_cor, B1)
     time = time_offset + base_time
@@ -121,7 +125,8 @@ def main():
     files = os.listdir(data_folder)
     files = [f for f in files if f[-3:] == ".nc"]
 
-    result = {"CloudAlbedo":[], "CloudAlbedoCorrected": [], "CloudFraction": [], "CloudFractionCorrected": [], "Time": []}
+    result = {"CloudAlbedo": [], "CloudAlbedoCorrected": [],
+              "CloudFraction": [], "CloudFractionCorrected": [], "Time": []}
 
     i = 0
     n = len(files)
