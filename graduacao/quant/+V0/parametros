@@ -1,0 +1,28 @@
+### Parâmetros das condições iniciais ###
+#Particula 1
+params_x = {"x_c": -0.2, "s": 0.05, "k_0": 30.0, "m": 1.0}
+mx = 1.0
+
+#Particula 2
+params_y = {"x_c": 0.2, "s": 0.05, "k_0": -30.0, "m": 2.0}
+my = 2.0
+
+#Parâmetros do potencial barreira
+V_0 = 1000.0
+alfa = 1
+
+### Parâmetros de simulação ###
+
+#Intervalo no eixo x
+x_i = -0.5
+x_f = 0.5
+
+#Intervalo temporal
+t_0 = 0
+t_f = 0.1
+
+#Passos
+dt = 0.0001
+r = 0.075
+dx = np.sqrt(dt / (2 * r))
+dx2 = dx ** 2
