@@ -2,16 +2,24 @@ h8 {
   font-size: 0.5em;
 }
 
+th, td{
+  border: 1px solid black;
+}
+
 table {
   width: 100%;
   padding: 2em;
-}
 
+}
 th {
   font-size: 1.25em;
-  text-align: left;
+  text-align: center;
 }
 
 td {
   font-size: 1.5em;
+}
+
+img{
+  width: 100%;
 }

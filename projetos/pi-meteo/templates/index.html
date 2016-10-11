@@ -17,5 +17,17 @@
     {% endfor %}
   </tr>
 </table>
+<table>
+  <tr>
+    <th>Temperature</th>
+    <th>Humidity</th>
+    <th>Pressure</th>
+  </tr>
+  <tr id="graphs">
+    <td><img src="{{ url_for('static', filename='temp.png') }}"> </img></td>
+    <td><img src="{{ url_for('static', filename='hum.png') }}"> </img></td>
+    <td><img src="{{ url_for('static', filename='pressure.png') }}"> </img></td>
+  </tr>
+</table>
 
 {% endblock %}
