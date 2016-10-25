@@ -1,0 +1,10 @@
+####_$_%.json
+
+#### - ano
+
+$ - fase 
+$ = 1(inscritos) | 2(convocados para a segunda fase) | 
+3(convocados para primeira chamada) | 4(convocados após a ultima chamada)
+
+% - tipo
+% = 1(região de inscrição) | 2(carreira de inscrição) | 3(primeira opção de curso na inscrição)

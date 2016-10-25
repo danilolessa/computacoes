@@ -12,10 +12,10 @@ import numpy as np
 import seaborn as sns
 
 app = Flask(__name__)
-
+path = "/srv/pi-meteo/"
 
 def generate_graph():
-    raw = pd.read_csv("data.csv", names=["time", "pressure", "humidity", "T1", "T2"])
+    raw = pd.read_csv(path + "data.csv", names=["time", "pressure", "humidity", "T1", "T2"])
     tim = (raw.time - raw.time[0]) / (60 * 60)
     T1 = raw.T1 - 273.15
     T2 = raw.T2 - 273.15
@@ -28,26 +28,26 @@ def generate_graph():
     plt.xlabel("Horas")
     plt.xticks(ticks)
     plt.ylabel("Temperatura (ºC)")
-    plt.savefig("static/temp.png")
+    plt.savefig(path + "static/temp.png")
     plt.clf()
 
     plt.plot(tim, raw.humidity, 'b,')
     plt.xlabel("Horas")
     plt.xticks(ticks)
     plt.ylabel("Umidade (%)")
-    plt.savefig("static/hum.png")
+    plt.savefig(path + "static/hum.png")
     plt.clf()
 
     plt.plot(tim, raw.pressure, ',g')
     plt.xlabel("Horas")
     plt.xticks(ticks)
     plt.ylabel("Pressão (hPa)")
-    plt.savefig("static/pressure.png")
+    plt.savefig(path + "static/pressure.png")
     plt.clf()
 
 
 def collect_last_measure():
-    with open("data.csv", "r") as fid:
+    with open(path + "data.csv", "r") as fid:
         reader = csv.reader(fid)
         lastrow = deque(reader, 1)[0]
     timestamp = float(lastrow[0])
