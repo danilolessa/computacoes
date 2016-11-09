@@ -1,0 +1,903 @@
+,date,title,amount,datevalue,categoria
+0,2015-06-16,Rei das Batidas,55.55,42171,lazer
+1,2015-06-16,Central Café - Metro Butantã,14.0,42171,lanche
+2,2015-06-16,Pense Farma,17.99,42171,farmacia
+3,2015-06-17,Mercadopago Mlivre 1/6,6.52,42172,compra
+4,2015-06-18,Central Café - Metro Butantã,12.5,42173,lanche
+5,2015-06-18,Subway,24.75,42173,junk
+6,2015-06-18,Pizarria San Remy,35.9,42173,delivery
+7,2015-06-18,Doces Santa Rita,5.45,42173,lanche
+8,2015-06-18,Lirio de Prata,6.5,42173,alimentacao
+9,2015-06-18,Auto Posto Tambau,2.5,42173,desconhecido
+10,2015-06-20,Materiais Bergamini,50.8,42175,material
+11,2015-06-20,Mercadopago Mlivre 1/5,6.81,42175,compra
+12,2015-06-23,Minimercado Lj,8.94,42178,mercado
+13,2015-06-23,Jja Serralheria,10.0,42178,compra
+14,2015-06-23,Central Café - Metro Butantã,12.5,42178,lanche
+15,2015-06-23,Ciclo Felline 1/3,48.34,42178,bike
+16,2015-06-26,Varejao Bonfiglioli,48.75,42181,mercado
+17,2015-06-27,Lirio de Prata,35.05,42182,alimentacao
+18,2015-06-27,Tias do IF,5.0,42182,lanche
+19,2015-06-30,Clara Refeicoes,38.0,42185,alimentacao
+20,2015-06-30,Mc Donalds Av Fco Mto,9.5,42185,junk
+21,2015-06-30,Fufu Lia,12.5,42185,lanche
+22,2015-07-01,Varejao Bonfiglioli,68.67,42186,mercado
+23,2015-07-02,Madero Eldorado,48.4,42187,lazer
+24,2015-07-02,Ke Supimpa,7.5,42187,lanche
+25,2015-07-02,Lanchonete da Fisica,13.4,42187,lanche
+26,2015-07-04,Super Hot Dog,19.5,42189,delivery
+27,2015-07-07,Beijinho Doce,10.0,42192,lanche
+28,2015-07-07,Rpf Lanches,47.0,42192,lazer
+29,2015-07-07,Alimentos Andinos,23.0,42192,lazer
+30,2015-07-07,Silvio S Bispo Santos,66.7,42192,delivery
+31,2015-07-07,Jacqueline A Pereira,23.0,42192,delivery
+32,2015-07-08,Cinemark Eldorado,15.0,42193,lazer
+33,2015-07-09,Extrinha,2.79,42194,mercado
+34,2015-07-09,Lirio de Prata,32.5,42194,alimentacao
+35,2015-07-10,Bem Estar,9.0,42195,lazer
+36,2015-07-10,Bolix,4.0,42195,lazer
+37,2015-07-10,Burger King Raposo Sho,4.0,42195,junk
+38,2015-07-10,Burger King Raposo Sho,21.5,42195,junk
+39,2015-07-10,Bolix,15.0,42195,lazer
+40,2015-07-10,Recarga Tim,18.0,42195,telefonia
+41,2015-07-14,Lirio de Prata,16.35,42199,alimentacao
+42,2015-07-14,Minimercado Lj,39.59,42199,mercado
+43,2015-07-15,Pagamento recebido,-605.82,42200,pagamento
+44,2015-07-16,Ciclo Felline 2/3,48.33,42201,bike
+45,2015-07-16,Mercadopago Mlivre 2/5,6.79,42201,compra
+46,2015-07-16,Mercadopago Mlivre 2/6,6.52,42201,compra
+47,2015-07-17,Decathlon Raposo,28.15,42202,compra
+48,2015-07-18,Maoz,48.0,42203,lazer
+49,2015-07-21,Cinemark Eldorado,34.0,42206,lazer
+50,2015-07-22,Netflix Com,22.9,42207,servico
+51,2015-07-23,Kfc,32.0,42208,junk
+52,2015-07-23,Saraiva Eldorado,37.8,42208,compra
+53,2015-07-24,Ciclo Felline 1/3,74.34,42209,bike
+54,2015-07-24,Imperio Dogs,31.4,42209,delivery
+55,2015-07-25,Barraca do Juca,118.5,42210,outros
+56,2015-07-25,Comercial Marukai,19.3,42210,mercado
+57,2015-07-28,Drogasil,9.83,42213,farmacia
+58,2015-07-28,Minimercado Lj,13.51,42213,mercado
+59,2015-07-28,Subway Shop Tatuape,14.0,42213,junk
+60,2015-07-28,Shop Ig Sup Irmaos Gon,4.19,42213,viagem
+61,2015-07-28,Sg Supermercados,6.82,42213,viagem
+62,2015-07-28,Lirio de Prata,6.0,42213,alimentacao
+63,2015-07-28,Solution Administracao,35.0,42213,viagem
+64,2015-07-28,Jair Rossi Frota,18.0,42213,compra
+65,2015-07-29,Dez Pasteis Ariquemes,4.0,42214,lanche
+66,2015-07-29,Casa das Biciclet 1/3,57.34,42214,outros
+67,2015-07-29,Auto Posto Douradao,11.02,42214,outros
+68,2015-07-30,Recarga Tim,20.0,42215,telefonia
+69,2015-08-01,Inajara de Souza,12.0,42217,outros
+70,2015-08-01,Anderson Alves Quadros,28.0,42217,outros
+71,2015-08-02,Mega Burguer Ariquemes,24.0,42218,lanche
+72,2015-08-02,Anderson Alves Quadros Ariquemes,16.0,42218,outros
+73,2015-08-02,Mega Burguer Ariquemes,4.5,42218,lanche
+74,2015-07-20,"Estorno de ""Netflix Com""",-22.9,42205,estorno
+75,2015-08-05,Lanchonete Biglanche,3.0,42221,lazer
+76,2015-08-06,Juninho Soft Cafe,8.0,42222,lazer
+77,2015-08-07,Eucatur 1/10,13.1,42223,viagem
+78,2015-08-08,Shop Ig Sup Irmaos Gon,6.2,42224,viagem
+79,2015-08-08,Shop Ig Sup Irmaos Gon,2.57,42224,viagem
+80,2015-08-08,Pagseguro 1/3,16.68,42224,compra
+81,2015-08-08,Lanchonete Capital do,7.0,42224,lanche
+82,2015-08-11,Minimercado Lj,16.58,42227,mercado
+83,2015-08-11,Minimercado Lj,37.45,42227,mercado
+84,2015-08-11,Shoucolandia,24.0,42227,outros
+85,2015-08-11,Arte em Pedras,34.0,42227,outros
+86,2015-08-11,Mc Donalds Vbr,19.5,42227,junk
+87,2015-08-11,Subway,16.75,42227,junk
+88,2015-08-11,Fufu Lia,10.0,42227,lanche
+89,2015-08-14,Ke Supimpa,7.5,42230,lanche
+90,2015-08-17,Pagamento recebido,-1159.17,42233,pagamento
+91,2015-08-18,Mercadopago Mlivre 3/5,6.79,42234,compra
+92,2015-08-18,Casa das Biciclet 2/3,57.33,42234,viagem
+93,2015-08-18,Pense Farma,14.3,42234,farmacia
+94,2015-08-18,Ciclo Felline 3/3,48.33,42234,bike
+95,2015-08-18,Lanchonete da Fisica,4.0,42234,lanche
+96,2015-08-18,Ke Supimpa,3.5,42234,lanche
+97,2015-08-18,Ke Supimpa,7.5,42234,lanche
+98,2015-08-18,Mercadopago Mlivre 3/6,6.52,42234,compra
+99,2015-08-18,Ciclo Felline 2/3,74.33,42234,bike
+100,2015-08-19,Mercadopago Wikimediaf,20.0,42235,compra
+101,2015-08-20,Recarga Tim,20.0,42236,telefonia
+102,2015-08-21,Ciclo Seabra,7.0,42237,bike
+103,2015-08-21,Ciclo Felline,45.0,42237,bike
+104,2015-08-21,Lanchonete da Fisica,7.0,42237,lanche
+105,2015-08-22,Minimercado Lj,23.28,42238,mercado
+106,2015-08-22,Minimercado Lj,1.81,42238,mercado
+107,2015-08-22,Minimercado Lj,28.4,42238,mercado
+108,2015-08-22,Salpicante Restaurante,38.9,42238,alimentacao
+109,2015-08-25,Lanchonete da Fisica,7.0,42241,lanche
+110,2015-08-25,Roldao Superatacado,107.96,42241,mercado
+111,2015-08-26,Mercadopago Wikimediaf,10.0,42242,compra
+112,2015-09-01,Lanchonete Belo Alto,24.43,42248,lazer
+113,2015-09-01,Silvio S Bispo Santos,21.9,42248,delivery
+114,2015-09-04,Ke Supimpa,10.0,42251,lanche
+115,2015-09-09,Ke Supimpa,7.0,42256,lanche
+116,2015-09-09,Pagsegurouol Escape,79.0,42256,lazer
+117,2015-09-09,Minimercado Lj,27.19,42256,mercado
+118,2015-09-09,Associacao Floricultor,22.5,42256,outros
+119,2015-09-09,Tubaina,59.73,42256,lazer
+120,2015-09-09,Uber Uber,20.1,42256,transporte
+121,2015-09-09,Burger King Shopping e,36.9,42256,junk
+122,2015-09-09,Cinemark Eldorado,30.0,42256,lazer
+123,2015-09-10,Materias Bergamini,63.8,42257,material
+124,2015-09-10,Minimercado Lj,40.18,42257,mercado
+125,2015-09-11,Biscoito da Vov,9.56,42258,lanche
+126,2015-09-11,Mania Mais,4.0,42258,lanche
+127,2015-09-11,Kaiowa Ldk 1/3,57.22,42258,viagem
+128,2015-09-11,Pizzaria Express,9.0,42258,delivery
+129,2015-09-12,Paloma Rest Lanchon,20.59,42259,alimentacao
+130,2015-09-15,Mc Donalds Asp,8.0,42262,junk
+131,2015-09-15,Pagamento recebido,-784.71,42262,pagamento
+132,2015-09-15,Minimercado Lj,5.11,42262,mercado
+133,2015-09-15,Mlivre 1/6,6.84,42262,compra
+134,2015-09-15,Subway,14.0,42262,junk
+135,2015-09-15,Panificadora Marialva,19.32,42262,lanche
+136,2015-09-15,Paloma Rest Lanchon,41.15,42262,alimentacao
+137,2015-09-15,Kaiowa Ldk 1/3,56.88,42262,viagem
+138,2015-09-15,Batatas Fritas Amelia,5.0,42262,lanche
+139,2015-09-15,Mlivre 1/6,6.14,42262,compra
+140,2015-09-15,Mercadopago Mlivre 1/3,5.55,42262,compra
+141,2015-09-16,Ciclo Felline 3/3,74.33,42263,bike
+142,2015-09-16,Eucatur 2/10,13.1,42263,viagem
+143,2015-09-16,Ciclo Felline,30.0,42263,bike
+144,2015-09-16,Mercadopago Mlivre 4/5,6.79,42263,compra
+145,2015-09-16,Casa das Biciclet 3/3,57.33,42263,outros
+146,2015-09-16,Pagseguro 2/3,16.66,42263,compra
+147,2015-09-16,Mercadopago Mlivre 4/6,6.52,42263,compra
+148,2015-09-19,Recarga Tim,30.0,42266,telefonia
+149,2015-09-19,Ke Supimpa,4.0,42266,lanche
+150,2015-09-22,Habib S,24.06,42269,junk
+151,2015-09-22,Raposo Tavares,15.0,42269,transporte
+152,2015-09-25,Ke Supimpa,3.5,42272,lanche
+153,2015-09-29,Cinemark Eldorado,34.0,42276,lazer
+154,2015-09-29,Carrefour Ere,47.31,42276,mercado
+155,2015-09-29,Minimercado Lj,46.24,42276,mercado
+156,2015-09-29,Habibs Corifeu,38.26,42276,junk
+157,2015-09-29,Ke Supimpa,6.0,42276,lanche
+158,2015-09-30,Centauro Com 1/4,25.26,42277,compra
+159,2015-10-01,Nutricap Com Prod Alim,4.0,42278,lanche
+160,2015-10-02,Ke Supimpa,7.5,42279,lanche
+161,2015-10-06,Carrefour Ere,86.83,42283,mercado
+162,2015-10-06,Habibs Corifeu,39.9,42283,junk
+163,2015-10-06,Pizza Hut,11.9,42283,junk
+164,2015-10-06,Cinemark Eldorado,34.0,42283,lazer
+165,2015-10-06,Ebanx Spotify,14.9,42283,servico
+166,2015-10-07,Lanchonete da Fisica,25.55,42284,lanche
+167,2015-10-07,Ke Supimpa,7.5,42284,lanche
+168,2015-10-09,Supermercado Padrao,3.98,42286,mercado
+169,2015-10-10,Fenix Com Estudantil,15.0,42287,compra
+170,2015-10-14,Jaquline Afonso Pereir,27.98,42291,delivery
+171,2015-10-14,Merc Silva e Barbosa,53.91,42291,mercado
+172,2015-10-14,Tre Scalini,36.0,42291,delivery
+173,2015-10-14,Ke Supimpa,7.5,42291,lanche
+174,2015-10-15,Pagamento recebido,-1147.12,42292,pagamento
+175,2015-10-16,Mercadopago Mlivre 5/6,6.52,42293,compra
+176,2015-10-16,Mlivre 2/6,6.86,42293,compra
+177,2015-10-16,Mlivre 2/6,6.15,42293,compra
+178,2015-10-16,Kaiowa Ldk 2/3,56.87,42293,viagem
+179,2015-10-16,Pagseguro 3/3,16.66,42293,compra
+180,2015-10-16,Eucatur 3/10,13.1,42293,viagem
+181,2015-10-16,Mercadopago Mlivre 2/3,5.53,42293,compra
+182,2015-10-16,Kaiowa Ldk 2/3,57.21,42293,viagem
+183,2015-10-16,Centauro Com 2/4,25.24,42293,compra
+184,2015-10-16,Mercadopago Mlivre 5/5,6.79,42293,compra
+185,2015-10-17,Ke Supimpa,5.0,42294,lanche
+186,2015-10-17,Moip Kickante,10.0,42294,outros
+187,2015-10-27,Ke Supimpa,7.5,42304,lanche
+188,2015-10-27,Augusta Bar,10.0,42304,lazer
+189,2015-10-27,Red,14.61,42304,compra
+190,2015-10-27,Elisabet Povoa Coelho,14.0,42304,lanche
+191,2015-10-27,Pagseguro Ocasvendedor,5.0,42304,compra
+192,2015-10-27,Hering 1/3,33.98,42304,compra
+193,2015-10-27,Extra Jaguare,81.8,42304,mercado
+194,2015-10-27,Big China Comercio de,64.55,42304,delivery
+195,2015-10-27,Zensho do Brasil,22.5,42304,compra
+196,2015-10-27,Lab,30.0,42304,lazer
+197,2015-10-27,Trescalini Pizzaria,36.0,42304,delivery
+198,2015-10-27,Netoticas 1/6,79.87,42304,compra
+199,2015-10-27,Vitrine,58.32,42304,compra
+200,2015-10-27,Minimercado Lj,1.69,42304,mercado
+201,2015-10-27,Ke Supimpa,7.5,42304,lanche
+202,2015-10-30,F I Empanadas,10.0,42307,lazer
+203,2015-10-30,Salpicante Restaurante,17.96,42307,alimentacao
+204,2015-10-30,Rpf Lanches,20.75,42307,lazer
+205,2015-10-30,Ingresso Rapido Bilhet,10.0,42307,lazer
+206,2015-11-06,Fufu Lia Sao Paulo,12.5,42314,lanche
+207,2015-11-06,Pichelluccio Sao Paulo,67.1,42314,lazer
+208,2015-11-06,Silvio S Bispo Santos Sao Paulo,25.0,42314,delivery
+209,2015-11-06,Ultrafarma Saude Sao Paulo 1/2,22.52,42314,farmacia
+210,2015-11-06,Kadson Souza Marques Sao Paulo,17.0,42314,compra
+211,2015-11-06,Chefrapid Sao Paulo,3.0,42314,lanche
+212,2015-11-06,Lanchonete Bom Bom Ltd Sao Paulo,4.5,42314,lanche
+213,2015-11-10,Filipe Oliveira Leite,14.5,42318,desconhecido
+214,2015-11-10,Star,16.9,42318,compra
+215,2015-11-10,Ke Supimpa,7.0,42318,lanche
+216,2015-11-10,Reinani Restaurante Ei,26.68,42318,alimentacao
+217,2015-11-10,Ke Supimpa,5.0,42318,lanche
+218,2015-11-10,Carrefour Ere,80.4,42318,mercado
+219,2015-11-10,Carrefour Ere,56.49,42318,mercado
+220,2015-11-10,Ecommerce Spotify,14.9,42318,servico
+221,2015-11-10,Recarga Tim Autom,50.0,42318,telefonia
+222,2015-11-10,Recarga Tim,30.0,42318,telefonia
+223,2015-11-16,Pagamento recebido,-1114.41,42324,pagamento
+224,2015-11-16,Mercadopago,31.0,42324,compra
+225,2015-11-16,Mercadopago Mlivre 1/2,10.75,42324,compra
+226,2015-11-16,Minimercado Lj,70.93,42324,mercado
+227,2015-11-17,Mercadopago Mlivre 3/3,5.53,42325,compra
+228,2015-11-17,Eucatur 4/10,13.1,42325,viagem
+229,2015-11-17,Mercadopago Mlivre 6/6,6.52,42325,compra
+230,2015-11-17,Cinemark Eldorado,34.0,42325,lazer
+231,2015-11-17,Centauro Com 3/4,25.24,42325,compra
+232,2015-11-17,Ultrafarma Saude Sao Paulo 2/2,22.51,42325,farmacia
+233,2015-11-17,Kaiowa Ldk 3/3,57.21,42325,viagem
+234,2015-11-17,Mlivre 3/6,6.86,42325,compra
+235,2015-11-17,Netoticas 2/6,79.84,42325,compra
+236,2015-11-17,Mlivre 3/6,6.15,42325,compra
+237,2015-11-17,Kaiowa Ldk 3/3,56.87,42325,viagem
+238,2015-11-17,Hering 2/3,33.96,42325,compra
+239,2015-11-19,Perf Seiki,36.3,42327,desconhecido
+240,2015-11-24,Kfc,24.9,42332,junk
+241,2015-11-24,Habib S,30.75,42332,junk
+242,2015-11-24,Habib S,24.1,42332,junk
+243,2015-11-24,Star,16.9,42332,compra
+244,2015-11-27,Lanchonete da Fisica,3.5,42335,lanche
+245,2015-12-01,Ifood Com Jundiai,39.5,42339,delivery
+246,2015-12-01,Minimercado Lj 5195 Sao Paulo,24.57,42339,mercado
+247,2015-12-01,Nutricap Com Prod Alim Sao Paulo,3.5,42339,lanche
+248,2015-12-02,Fenix Com Estudantil,20.0,42340,compra
+249,2015-12-03,Mercadopago*Mlivr 1/6,5.89,42341,compra
+250,2015-12-04,Lanchonete da Fisica,3.5,42342,lanche
+251,2015-12-08,Minimercado Lj,57.03,42346,mercado
+252,2015-12-08,Ifood Com,36.0,42346,delivery
+253,2015-12-08,Starbucks 008 Eldorado,16.9,42346,junk
+254,2015-12-08,Carrefour Ere,3.89,42346,mercado
+255,2015-12-08,Lanchonete da Fisica,3.5,42346,lanche
+256,2015-12-08,Cinemark Eldorado,38.0,42346,lazer
+257,2015-12-08,Lirio de Prata,23.7,42346,alimentacao
+258,2015-12-10,Recarga Tim,30.0,42348,telefonia
+259,2015-12-10,Lanchonete da Fisica,7.5,42348,lanche
+260,2015-12-10,Ebanx Spotify,14.9,42348,servico
+261,2015-12-11,Mercadopago 1/10,6.29,42349,compra
+262,2015-12-11,Mercadopago 1/10,6.28,42349,compra
+263,2015-12-14,Eldorado Mate,10.4,42352,junk
+264,2015-12-14,Wilson Lanchonete e Su,7.0,42352,lanche
+265,2015-12-14,Kfc,63.9,42352,junk
+266,2015-12-15,Fufu Lia,8.5,42353,lanche
+267,2015-12-15,Pagamento recebido,-1147.37,42353,pagamento
+268,2015-12-15,Ifood Com,36.0,42353,delivery
+269,2015-12-16,Centauro Com 4/4,25.24,42354,compra
+270,2015-12-16,Eucatur 5/10,13.1,42354,viagem
+271,2015-12-16,Mlivre 4/6,6.15,42354,compra
+272,2015-12-16,Mercadopago*Mlivr 2/6,5.86,42354,compra
+273,2015-12-16,Mercadopago Mlivre 2/2,10.75,42354,compra
+274,2015-12-16,Hering 3/3,33.96,42354,compra
+275,2015-12-16,Mlivre 4/6,6.86,42354,compra
+276,2015-12-16,Netoticas 3/6,79.84,42354,compra
+277,2015-12-18,Merc Silva e Barbosa,40.58,42356,mercado
+278,2015-12-22,Mania Mais,7.0,42360,lanche
+279,2015-12-22,Viacao Ouro Branco 1/3,85.0,42360,viagem
+280,2015-12-22,Bukz,5.0,42360,lanche
+281,2015-12-22,Minimercado Lj,20.01,42360,mercado
+282,2015-12-22,Rod Music,10.0,42360,compra
+283,2015-12-23,M Z Gritti Sorvetes,8.5,42361,lazer
+284,2015-12-23,Paloma Rest Lanchon,24.01,42361,alimentacao
+285,2015-12-24,Beer Hunters,18.0,42362,lazer
+286,2015-12-24,Estacao do Chef,44.79,42362,lazer
+287,2015-12-25,Farmacia Marialva,13.9,42363,farmacia
+288,2015-12-25,Supermercados Cidade C,10.53,42363,mercado
+289,2015-12-25,Supermercado Nova Era,4.34,42363,mercado
+290,2015-12-25,Bruno Mateus Buozo,13.0,42363,desconhecido
+291,2015-12-29,Pescados Cabral,15.93,42367,outros
+292,2015-12-29,Napoles Alimentos,10.0,42367,outros
+293,2015-12-29,Big Presenteria,28.0,42367,outros
+294,2015-12-29,Supermercados Koch,13.18,42367,mercado
+295,2015-12-29,Efes Bier,23.0,42367,desconhecido
+296,2015-12-29,Kilokura,19.98,42367,desconhecido
+297,2015-12-29,Chilli Beans 1/3,76.0,42367,compra
+298,2015-12-29,Chiquinho Sorvetes,19.0,42367,lazer
+299,2015-12-29,Ana Franciele de And,15.21,42367,mercado
+300,2015-12-29,Di Pratti Calcados 1/4,114.85,42367,compra
+301,2015-12-29,Rei do Mate,5.0,42367,lanche
+302,2015-12-29,Rei do Mate,7.5,42367,lanche
+303,2015-12-30,Sr Shawarma,28.0,42368,lazer
+304,2015-12-30,Itapanni 24 Horas,17.5,42368,lanche
+305,2015-12-31,Nativa Farma,24.99,42369,farmacia
+306,2015-12-31,Dilcelia das Gracas Va 1/2,30.0,42369,compra
+307,2015-12-31,Cantina Lopes,70.0,42369,lanche
+308,2015-12-31,Gelateria Meia Praia,10.98,42369,lazer
+309,2015-12-31,Jucelia L da Silva,9.0,42369,desconhecido
+310,2015-12-31,Ice Land Fabrica de,3.0,42369,lazer
+311,2015-12-31,Supermercados Koch,15.86,42369,mercado
+312,2015-12-31,Ice Land Fabrica de,6.0,42369,lazer
+313,2016-01-01,Aroma Brasil Curitiba,31.25,42370,alimentacao
+314,2016-01-01,Tropical Banana Curitiba,3.5,42370,lazer
+315,2016-01-01,Bistro Tangua Curitiba,7.0,42370,lanche
+316,2016-01-01,Zapata la Taqueria Curitiba,14.9,42370,lazer
+317,2016-01-01,Itapemirim Curitiba Curitiba 1/3,53.64,42370,viagem
+318,2016-01-01,Schwarzwald B Alemao Curitiba,61.8,42370,lazer
+319,2016-01-05,Posto Serv Parana,5.5,42374,lanche
+320,2016-01-05,Supermercado Sao Roque,44.64,42374,mercado
+321,2016-01-06,Jose Henrique da Costa,24.0,42375,desconehcido
+322,2016-01-06,Rogerio Alessandro de,25.0,42375,desconhecido
+323,2016-01-06,Bella Cosmeticos,27.85,42375,compra
+324,2016-01-07,Silva Ortino Lanches,13.5,42376,lanche
+325,2016-01-07,Silva Ortino Lanches,4.0,42376,lanche
+326,2016-01-08,Supermercado Padrao,46.24,42377,mercado
+327,2016-01-08,Fufu Lia,8.0,42377,lanche
+328,2016-01-11,Ifood Com,56.0,42380,delivery
+329,2016-01-12,Ma Carneiro Comercio D,7.9,42381,lanche
+330,2016-01-12,Skinao Lanches,54.78,42381,lazer
+331,2016-01-12,Carrefour Ere,60.68,42381,mercado
+332,2016-01-13,Ciclo Felline,60.0,42382,bike
+333,2016-01-13,Ebanx Spotify,14.9,42382,servico
+334,2016-01-15,Papelaria Peres,20.0,42384,compra
+335,2016-01-15,Pagamento recebido,-1591.28,42384,pagamento
+336,2016-01-18,Mercadopago*Mlivr 3/6,5.86,42387,mercado
+337,2016-01-18,Mercadopago 2/10,6.23,42387,mercado
+338,2016-01-18,Dilcelia das Gracas Va 2/2,30.0,42387,compra
+339,2016-01-18,Di Pratti Calcados 2/4,114.85,42387,compra
+340,2016-01-18,Mlivre 5/6,6.15,42387,compra
+341,2016-01-18,Mlivre 5/6,6.86,42387,compra
+342,2016-01-18,Netoticas 4/6,79.84,42387,compra
+343,2016-01-18,Itapemirim Curitiba Curitiba 2/3,53.63,42387,viagem
+344,2016-01-18,Viacao Ouro Branco 2/3,85.0,42387,viagem
+345,2016-01-18,Eucatur 6/10,13.1,42387,viagem
+346,2016-01-18,Chilli Beans 2/3,76.0,42387,compra
+347,2016-01-18,Mercadopago 2/10,6.22,42387,mercado
+348,2016-01-20,Prime Dog,15.0,42389,lazer
+349,2016-01-20,Prime Dog,31.0,42389,lazer
+350,2016-01-21,Urbe Cafe Bar,35.64,42390,lazer
+351,2016-01-21,M e B Mater Const e Fe,9.3,42390,material
+352,2016-01-22,Cinemark Eldorado,30.0,42391,lazer
+353,2016-01-22,Expresso Itamarati 1/6,65.7,42391,viagem
+354,2016-01-22,Jemari,6.0,42391,desconhecido
+355,2016-01-22,Burger King Shopping e,23.5,42391,junk
+356,2016-01-22,Cinemark Eldorado,25.0,42391,lazer
+357,2016-01-23,Cacau Show,10.0,42392,lazer
+358,2016-01-23,Habibby,3.0,42392,junk
+359,2016-01-25,"Estorno de ""Moip Enjoei""",-995.58,42394,estorno
+360,2016-01-28,Drogaria Catedral,3.5,42397,farmacia
+361,2016-01-28,Moip Enjoei,995.58,42397,compra
+362,2016-01-28,Mercadopago 1/12,6.15,42397,compra
+363,2016-01-29,Daltiba Auto Posto,18.0,42398,outros
+364,2016-01-30,Auto Posto Ro,16.33,42399,outros
+365,2016-01-30,Inajara de Souza,10.0,42399,outros
+366,2016-02-02,Auto Posto Ro,20.0,42402,outros
+367,2016-02-02,Shop Ig Sup Irmaos Gon,8.73,42402,viagem
+368,2016-02-02,Irma Margarida Kuhn,24.9,42402,lazer
+369,2016-02-02,Ma Distribuidora,4.38,42402,mercado
+370,2016-02-03,e K Minami Ariquemes,9.5,42403,lanche
+371,2016-02-03,Maria Luiza da Silva Ariquemes,34.5,42403,lazer
+372,2016-02-03,Juliana Natacha Morais Ariquemes,20.5,42403,lazer
+373,2016-02-04,Shop Ig Sup Irmaos Gon,10.54,42404,viagem
+374,2016-02-04,Delicia S de Chocolate,11.0,42404,lanche
+375,2016-02-04,Casa das Biciclet 1/2,55.0,42404,outros
+376,2016-02-04,Panqueca Mania,33.98,42404,lazer
+377,2016-02-05,Laengel Eletronica,30.0,42405,compra
+378,2016-02-05,Sabores da Terra,37.03,42405,lazer
+379,2016-02-06,Panela de Barro,17.0,42406,lazer
+380,2016-02-06,Expresso Itamarati 1/6,47.7,42406,viagem
+381,2016-02-11,Mercado Bom Preco,10.0,42411,mercado
+382,2016-02-11,Eucatur 1/10,14.2,42411,viagem
+383,2016-02-11,Farmacia Sao Paulo,19.45,42411,farmacia
+384,2016-02-11,Denis,43.0,42411,lanche
+385,2016-02-11,Juninho Soft Cafe,13.0,42411,lazer
+386,2016-02-11,Payleven,18.5,42411,desconhecido
+387,2016-02-11,Ebanx,14.9,42411,servico
+388,2016-02-12,Grill 12 Com S,35.93,42412,alimentacao
+389,2016-02-13,Subway Vg,3.5,42413,junk
+390,2016-02-13,Lanchonete Rondon,13.0,42413,alimentacao
+391,2016-02-13,Conveniencia,4.0,42413,lanche
+392,2016-02-13,Subway Vg,22.5,42413,junk
+393,2016-02-13,Rei da Esfirra,30.83,42413,lanche
+394,2016-02-15,Pagamento recebido,-1497.88,42415,pagamento
+395,2016-02-16,Di Pratti Calcados 3/4,114.85,42416,compra
+396,2016-02-16,Kaisen,15.2,42416,desconhecido
+397,2016-02-16,Padaria Paulistana,26.4,42416,lanche
+398,2016-02-16,Mlivre 6/6,6.86,42416,compra
+399,2016-02-16,Chilli Beans 3/3,76.0,42416,compra
+400,2016-02-16,Expresso Itamarati 2/6,65.66,42416,viagem
+401,2016-02-16,Comercial Marukai,14.15,42416,mercado
+402,2016-02-16,Netoticas 5/6,79.84,42416,compra
+403,2016-02-16,Mercadopago*Mlivr 4/6,5.86,42416,compra
+404,2016-02-16,Eucatur 7/10,13.1,42416,viagem
+405,2016-02-16,Mercadopago 2/12,6.11,42416,compra
+406,2016-02-16,Emporio Azuki,13.47,42416,mercado
+407,2016-02-16,Bar e Lanches Teu Lar,3.0,42416,lazer
+408,2016-02-16,Mlivre 6/6,6.15,42416,compra
+409,2016-02-16,Viacao Ouro Branco 3/3,85.0,42416,viagem
+410,2016-02-16,Brilhos,35.0,42416,compra
+411,2016-02-16,Mercadopago 3/10,6.23,42416,compra
+412,2016-02-16,Mercadopago 3/10,6.22,42416,compra
+413,2016-02-16,Itapemirim Curitiba Curitiba 3/3,53.63,42416,viagem
+414,2016-02-16,Starbucks Brasil,13.7,42416,junk
+415,2016-02-19,Lanchonete da Fisica,9.0,42419,lanche
+416,2016-02-23,Mercadopago 1/12,16.36,42423,compra
+417,2016-02-23,M e B Mater Const e Fe,71.25,42423,material
+418,2016-02-23,Fufu Lia,9.0,42423,lanche
+419,2016-02-25,Ke Supimpa,2.5,42425,lanche
+420,2016-02-25,Recarga Tim Autom,50.0,42425,telefonia
+421,2016-02-26,Dia Loja,30.81,42426,mercado
+422,2016-02-27,Khi Burger,49.9,42427,lazer
+423,2016-03-01,Natural Dazu,12.0,42430,mercado
+424,2016-03-02,Ke Supimpa,6.0,42431,lanche
+425,2016-03-04,Ke Supimpa,2.5,42433,lanche
+426,2016-03-04,Habibs,16.7,42433,junk
+427,2016-03-08,Burger King Shopping e,23.5,42437,junk
+428,2016-03-08,Drogasil,21.14,42437,farmacia
+429,2016-03-08,Carrefour Ere,32.65,42437,mercado
+430,2016-03-09,Ebanx,14.9,42438,servico
+431,2016-03-09,Lanchonete da Fisica,4.5,42438,lanche
+432,2016-03-09,Mercadopago 1/12,6.98,42438,compra
+433,2016-03-09,M e B Mater Const e Fe,22.95,42438,material
+434,2016-03-10,Nutricap Com Prod Alim,10.5,42439,lanche
+435,2016-03-11,Mercadopago 1/9,6.39,42440,compra
+436,2016-03-11,Mercadopago Mlivre 1/6,7.97,42440,compra
+437,2016-03-11,Mercadopago 1/10,6.69,42440,compra
+438,2016-03-15,Loja do Mecanico 1/8,10.01,42444,compra
+439,2016-03-15,Centauro Com,48.02,42444,compra
+440,2016-03-15,Lanches Bh Ltda,13.7,42444,lazer
+441,2016-03-15,A2g Comercio de Paes,5.8,42444,lazer
+442,2016-03-15,Pagamento recebido,-1296.99,42444,pagamento
+443,2016-03-15,Roberto Sergio Zapata,52.8,42444,lazer
+444,2016-03-15,Dia Loja,76.31,42444,mercado
+445,2016-03-15,Estacao Ags Hamburguer,105.38,42444,lazer
+446,2016-03-15,Roberto Sergio Zapata,7.9,42444,lazer
+447,2016-03-15,El Mariachi,77.97,42444,lazer
+448,2016-03-16,Expresso Itamarati 2/6,47.66,42445,viagem
+449,2016-03-16,Mercadopago 2/12,16.33,42445,compra
+450,2016-03-16,Mercadopago 4/10,6.22,42445,compra
+451,2016-03-16,Mercadopago*Mlivr 5/6,5.86,42445,compra
+452,2016-03-16,Mercadopago 3/12,6.11,42445,compra
+453,2016-03-16,Mercadopago 4/10,6.23,42445,compra
+454,2016-03-16,Expresso Itamarati 3/6,65.66,42445,viagem
+455,2016-03-16,Eucatur 8/10,13.1,42445,viagem
+456,2016-03-16,Di Pratti Calcados 4/4,114.85,42445,compra
+457,2016-03-16,Eucatur 2/10,14.2,42445,viagem
+458,2016-03-16,Casa das Biciclet 2/2,55.0,42445,outros
+459,2016-03-16,Netoticas 6/6,79.84,42445,compra
+460,2016-03-17,Ke Supimpa,4.0,42446,lanche
+461,2016-03-18,Mercadopago Mlivre 1/3,8.4,42447,compra
+462,2016-03-18,Mercadopago Mlivre,6.5,42447,compra
+463,2016-03-19,Habibs,18.58,42448,junk
+464,2016-03-22,M e B Mater Const e Fe,21.95,42451,material
+465,2016-03-22,Merc Silva e Barbosa,77.41,42451,mercado
+466,2016-03-22,Dia Loja,6.05,42451,mercado
+467,2016-03-23,Fundacao Estudar,65.0,42452,outros
+468,2016-03-25,Carrefour Ere,56.93,42454,mercado
+469,2016-03-25,Carrefour Ere,19.01,42454,mercado
+470,2016-03-25,Mc Donalds Hsc,33.0,42454,junk
+471,2016-03-29,Cervejaria Lisboa,10.0,42458,lazer
+472,2016-03-29,Hot Dog da Augusta,44.5,42458,lazer
+473,2016-03-29,Las Magrelas,48.5,42458,lazer
+474,2016-03-29,Cinemark Eldorado,33.0,42458,lazer
+475,2016-03-29,Recarga Tim Autom,50.0,42458,telefonia
+476,2016-03-29,Cinemark Eldorado,12.0,42458,lazer
+477,2016-03-29,Bem Estar,9.0,42458,lazer
+478,2016-03-31,Ke Supimpa,9.0,42460,lanche
+479,2016-04-04,"IOF de ""Netflix Com""",2.85,42464,servico
+480,2016-04-05,Habibs,41.47,42465,junk
+481,2016-04-05,Netflix Com,44.6,42465,servico
+482,2016-04-05,Dia Loja,72.58,42465,mercado
+483,2016-04-06,Ke Supimpa,8.0,42466,lanche
+484,2016-04-07,Google Play Wallet,22.82,42467,outros
+485,2016-04-08,Lanchonete da Fisica,8.5,42468,lanche
+486,2016-04-08,Mercadopago Mlivre 1/6,7.93,42468,compra
+487,2016-04-09,Ebanx Spotify,14.9,42469,servico
+488,2016-04-12,Dia Loja,34.92,42472,mercado
+489,2016-04-12,Fufu Lia,7.0,42472,lanche
+490,2016-04-13,Google Play Cheparev,7.79,42473,lazer
+491,2016-04-13,"IOF de ""Paypal Jerrychsz""",3.92,42473,compra
+492,2016-04-14,Habibs,7.86,42474,junk
+493,2016-04-14,Habibs,9.84,42474,junk
+494,2016-04-15,Supermercado Padrao,30.02,42475,mercado
+495,2016-04-15,Mc Donalds Av Fco Mto,8.5,42475,junk
+496,2016-04-15,Ke Supimpa,5.0,42475,lanche
+497,2016-04-15,Ke Supimpa,4.0,42475,lanche
+498,2016-04-15,Pagamento recebido,-1519.95,42475,pagamento
+499,2016-04-16,Mercadopago Mlivre 2/3,8.39,42476,compra
+500,2016-04-16,Eucatur 3/10,14.2,42476,viagem
+501,2016-04-16,Mercadopago 5/10,6.23,42476,compra
+502,2016-04-16,Expresso Itamarati 4/6,65.66,42476,viagem
+503,2016-04-16,Paypal Jerrychsz,61.43,42476,compra
+504,2016-04-16,Mercadopago 2/9,6.36,42476,compra
+505,2016-04-16,Loja do Mecanico 2/8,9.96,42476,compra
+506,2016-04-16,Mercadopago 4/12,6.11,42476,compra
+507,2016-04-16,Mercadopago 3/12,16.33,42476,compra
+508,2016-04-16,Expresso Itamarati 3/6,47.66,42476,viagem
+509,2016-04-16,Ke Supimpa,4.0,42476,lanche
+510,2016-04-16,Mercadopago 5/10,6.22,42476,compra
+511,2016-04-16,Mercadopago 2/10,6.62,42476,mercado
+512,2016-04-16,Mercadopago 2/12,6.91,42476,compra
+513,2016-04-16,Eucatur 9/10,13.1,42476,viagem
+514,2016-04-16,Mercadopago Mlivre 2/6,7.97,42476,compra
+515,2016-04-16,Mercadopago*Mlivr 6/6,5.86,42476,compra
+516,2016-04-19,Star,100.0,42479,compra
+517,2016-04-19,Baccio Di Latte,11.0,42479,lazer
+518,2016-04-19,The Fifties Eldorado,51.0,42479,lazer
+519,2016-04-19,Lanches Bh Ltda,12.2,42479,lazer
+520,2016-04-19,Segredo dos Doces,6.1,42479,lanche
+521,2016-04-20,Burger King,28.9,42480,junk
+522,2016-04-20,Outback Bz 07 Eldorado,129.03,42480,lazer
+523,2016-04-21,The Fifties,98.02,42481,lazer
+524,2016-04-23,Habibs,23.45,42483,junk
+525,2016-04-23,Chez Mis,35.2,42483,lanche
+526,2016-04-23,Ke Supimpa,4.0,42483,lanche
+527,2016-04-26,Mercadopago 1/6,7.05,42486,compra
+528,2016-04-26,Carrefour Ere,121.43,42486,mercado
+529,2016-04-26,Dia Loja,3.33,42486,mercado
+530,2016-04-26,Mc Donalds Hsc,37.5,42486,junk
+531,2016-04-26,Casas Bahiacom 1/3,11.06,42486,compra
+532,2016-04-28,Habibs,9.9,42488,junk
+533,2016-04-29,Ultrafarma Saude 1/2,23.55,42489,farmacia
+534,2016-04-30,Ke Supimpa,5.0,42490,lanche
+535,2016-05-04,Habibs,13.8,42494,junk
+536,2016-05-03,"IOF de ""Google Svcs1258463148""",0.11,42493,lazer
+537,2016-05-05,Google Svcs1258463148,1.67,42495,lazer
+538,2016-05-06,Dia Loja,82.27,42496,mercado
+539,2016-05-07,Cinemark Eldorado,37.0,42497,lazer
+540,2016-05-07,Cinemark Eldorado,26.0,42497,lazer
+541,2016-05-07,Burger King Shopping e,43.9,42497,junk
+542,2016-05-07,Subway Eldorado,25.0,42497,junk
+543,2016-05-10,Lanches Bh Ltda,4.6,42500,lazer
+544,2016-05-10,Mercadopago 1/2,5.95,42500,compra
+545,2016-05-10,Maoz,40.5,42500,lazer
+546,2016-05-10,Ebanx Spotify,14.9,42500,servico
+547,2016-05-10,Marcio Dionisio Souza,6.0,42500,
+548,2016-05-10,Mercadopago 1/3,11.61,42500,compra
+549,2016-05-10,Ke Supimpa,4.0,42500,lanche
+550,2016-05-10,Mercadopago 1/2,6.45,42500,compra
+551,2016-05-10,Emporio Azuki,5.99,42500,mercado
+552,2016-05-10,Mercadopago 1/5,5.98,42500,compra
+553,2016-05-11,Lanchonete da Fisica,4.5,42501,lanche
+554,2016-05-11,Nutricap Com Prod Alim,7.5,42501,lanche
+555,2016-05-11,Google Play Kavcom,5.57,42501,lazer
+556,2016-05-11,Carrefour Ere,27.05,42501,mercado
+557,2016-05-12,Habibs,9.9,42502,junk
+558,2016-05-12,Delicias Doces Caseiro,11.0,42502,lazer
+559,2016-05-13,Carrefour Ere,55.18,42503,mercado
+560,2016-05-14,Ifood Com,81.8,42504,delivery
+561,2016-05-16,Pagamento recebido,-1367.03,42506,pagamento
+562,2016-05-17,Mercadopago Mlivre 3/3,8.39,42507,compra
+563,2016-05-17,Ultrafarma Saude 2/2,23.54,42507,farmacia
+564,2016-05-17,Loja do Mecanico 3/8,9.96,42507,compra
+565,2016-05-17,Simone Alves de Aguiar,15.0,42507,compra
+566,2016-05-17,Casas Bahiacom 2/3,11.06,42507,compra
+567,2016-05-17,Expresso Itamarati 4/6,47.66,42507,viagem
+568,2016-05-17,Crédito de variação cambial,-1.09,42507,estorno
+569,2016-05-17,Mercadopago 6/10,6.23,42507,compra
+570,2016-05-17,Eucatur 10/10,13.1,42507,viagem
+571,2016-05-17,Mercadopago Mlivre 2/6,7.91,42507,compra
+572,2016-05-17,Mercadopago 2/6,7.02,42507,compra
+573,2016-05-17,Big X Picanha,55.77,42507,junk
+574,2016-05-17,Mercadopago 3/9,6.36,42507,compra
+575,2016-05-17,Mercadopago 5/12,6.11,42507,compra
+576,2016-05-17,Mercadopago 3/10,6.62,42507,compra
+577,2016-05-17,Mercadopago 4/12,16.33,42507,compra
+578,2016-05-17,Mercadopago Mlivre 3/6,7.97,42507,compra
+579,2016-05-17,Mercadopago 6/10,6.22,42507,compra
+580,2016-05-17,Mercadopago 3/12,6.91,42507,compra
+581,2016-05-17,Expresso Itamarati 5/6,65.66,42507,viagem
+582,2016-05-17,Eucatur 4/10,14.2,42507,viagem
+583,2016-05-18,Lanchonete da Fisica,3.75,42508,lanche
+584,2016-05-18,Ke Supimpa,5.0,42508,lanche
+585,2016-05-19,Coperativa Monte Sinai,18.0,42509,
+586,2016-05-19,Nutricap Com Prod Alim,4.5,42509,lanche
+587,2016-05-19,Jerrinaldo Almeida de,43.0,42509,
+588,2016-05-20,Google Play Tomorrow C,4.29,42510,lazer
+589,2016-05-23,Pagsegurouol Dayavegan,15.0,42513,compra
+590,2016-05-23,Ke Supimpa,4.0,42513,lanche
+591,2016-05-23,Google Play Kairosoft,5.65,42513,lazer
+592,2016-05-23,Ke Supimpa,4.0,42513,lanche
+593,2016-05-23,Dia Loja,78.25,42513,mercado
+594,2016-05-23,Ke Supimpa,5.0,42513,lanche
+595,2016-05-23,Pagsegurouol Munartesa,12.0,42513,compra
+596,2016-05-23,Sao Paulo da Cruz,3.59,42513,lanche
+597,2016-05-26,Pizza Hut,22.9,42516,junk
+598,2016-05-28,Carrefour Ere,6.05,42518,mercado
+599,2016-05-30,Sao Paulo da Cruz,26.21,42520,lanche
+600,2016-06-03,"IOF de ""Google Svcs1258463148""",0.11,42524,lazer
+601,2016-06-05,Subway Eldorado,23.5,42526,junk
+602,2016-06-05,Mercadopago 1/10,6.58,42526,compra
+603,2016-06-05,Google Svcs1258463148,1.8,42526,lazer
+604,2016-06-05,Carrefour Ere,63.4,42526,mercado
+605,2016-06-05,Ifood Com,24.9,42526,delivery
+606,2016-06-07,Ebanx Spotify,14.9,42528,servico
+607,2016-06-07,Dia Loja,83.35,42528,mercado
+608,2016-06-09,Lanches Bh Ltda,9.2,42530,lazer
+609,2016-06-09,Prime Dog,31.0,42530,lazer
+610,2016-06-10,Recarga Vivo,20.0,42531,telefonia
+611,2016-06-13,Recarga Tim Autom,50.0,42534,telefonia
+612,2016-06-13,Mc Donalds Hsc,16.0,42534,junk
+613,2016-06-13,Emporio do Animal,53.3,42534,material
+614,2016-06-14,Lanchonete Comfrey,7.0,42535,lanche
+615,2016-06-15,Mercadopago Mlivre 3/6,7.91,42536,compra
+616,2016-06-15,Mercadopago 2/3,11.6,42536,compra
+617,2016-06-15,Pagamento recebido,-1246.84,42536,pagamento
+618,2016-06-15,Mercadopago 1/12,15.64,42536,compra
+619,2016-06-15,Mercadopago 4/12,6.91,42536,compra
+620,2016-06-15,Mercadopago 4/10,6.62,42536,compra
+621,2016-06-15,Mercadopago 7/10,6.23,42536,compra
+622,2016-06-15,Mercadopago 2/5,5.98,42536,compra
+623,2016-06-15,Mercadopago 2/2,6.45,42536,compra
+624,2016-06-15,Casas Bahiacom 3/3,11.06,42536,compra
+625,2016-06-15,Mercadopago 2/2,5.95,42536,compra
+626,2016-06-15,Mercadopago 4/9,6.36,42536,compra
+627,2016-06-15,Expresso Itamarati 5/6,47.66,42536,viagem
+628,2016-06-15,Supermercado Padrao,97.41,42536,mercado
+629,2016-06-15,Mercadopago 3/6,7.02,42536,compra
+630,2016-06-15,Mercadopago 6/12,6.11,42536,compra
+631,2016-06-15,Crédito de variação cambial,-0.08,42536,estorno
+632,2016-06-15,Eucatur 5/10,14.2,42536,viagem
+633,2016-06-15,Mercadopago 7/10,6.22,42536,compra
+634,2016-06-15,Mercadopago Mlivre 4/6,7.97,42536,compra
+635,2016-06-15,Expresso Itamarati 6/6,65.66,42536,viagem
+636,2016-06-15,Loja do Mecanico 4/8,9.96,42536,compra
+637,2016-06-15,Mercadopago 5/12,16.33,42536,compra
+638,2016-06-17,Panif S Paulo da Cruz,4.67,42538,lanche
+639,2016-06-20,Supermercado Padrao,21.78,42541,mercado
+640,2016-06-20,Bar e Lanches Teu Lar,3.5,42541,lazer
+641,2016-06-24,Hanburgao Lanches,14.0,42545,lanche
+642,2016-06-27,Ifood Com,38.0,42548,delivery
+643,2016-06-27,Pizzaria Bomfim,41.72,42548,delivery
+644,2016-06-27,Dia Loja,95.11,42548,mercado
+645,2016-06-27,Materpizza Com Alim,16.9,42548,lanche
+646,2016-06-28,Sodie Doces,20.71,42549,lazer
+647,2016-06-30,Drogasil,7.58,42551,farmacia
+648,2016-06-30,Mc Donalds Hsc,37.0,42551,junk
+649,2016-07-01,Dia Loja,20.08,42552,mercado
+650,2016-07-04,Pagseguro Boacompra,5.54,42555,lazer
+651,2016-07-04,Bar e Lanches Teu Lar,8.5,42555,lazer
+652,2016-07-04,Habibs,16.78,42555,junk
+653,2016-07-04,Mercadopago 1/12,11.0,42555,compra
+654,2016-07-04,Habibs,23.75,42555,junk
+655,2016-07-05,Subway Eldorado,24.0,42556,junk
+656,2016-07-05,Cinemark Eldorado,35.0,42556,lazer
+657,2016-07-06,Mercadopago 1/12,13.77,42557,compra
+658,2016-07-06,Nutricap Com Prod Alim,24.0,42557,lanche
+659,2016-07-06,Habibs,12.8,42557,junk
+660,2016-07-07,Dia Loja,7.97,42558,mercado
+661,2016-07-12,Drogasil,18.98,42563,farmacia
+662,2016-07-12,Kadalora,14.0,42563,delivery
+663,2016-07-14,Ke Supimpa,5.0,42565,lanche
+664,2016-07-15,Pagamento recebido,-1150.12,42566,pagamento
+665,2016-07-15,Mercadopago 7/12,6.11,42566,compra
+666,2016-07-15,Mercadopago 2/10,6.58,42566,mercado
+667,2016-07-15,Expresso Itamarati 6/6,47.66,42566,viagem
+668,2016-07-15,Mercadopago 5/9,6.36,42566,compra
+669,2016-07-15,Mercadopago Mlivre 4/6,7.91,42566,compra
+670,2016-07-15,Mercadopago 2/12,15.56,42566,compra
+671,2016-07-15,Loja do Mecanico 5/8,9.96,42566,compra
+672,2016-07-15,Mercadopago 8/10,6.23,42566,compra
+673,2016-07-15,Mercadopago 5/10,6.62,42566,compra
+674,2016-07-15,Mercadopago 3/5,5.98,42566,compra
+675,2016-07-15,Mercadopago 8/10,6.22,42566,compra
+676,2016-07-15,Mercadopago 3/3,11.6,42566,compra
+677,2016-07-15,Mercadopago 6/12,16.33,42566,compra
+678,2016-07-15,Mercadopago Mlivre 5/6,7.97,42566,compra
+679,2016-07-15,Mercadopago 5/12,6.91,42566,compra
+680,2016-07-15,Eucatur 6/10,14.2,42566,viagem
+681,2016-07-15,Mercadopago 4/6,7.02,42566,compra
+682,2016-07-19,Habib S,30.31,42570,junk
+683,2016-07-19,Domingos C Ribeiro,45.0,42570,material
+684,2016-07-19,Loja Oscar,14.9,42570,desconhecido
+685,2016-07-19,Toco Sol,100.0,42570,compra
+686,2016-07-22,Monster Dog,12.5,42573,lanche
+687,2016-07-22,Rodolfo Penteado Sanch,50.0,42573,lazer
+688,2016-07-22,Merc Silva e Barbosa,45.63,42573,mercado
+689,2016-07-25,Juliana Natacha Morais,26.5,42576,lanche
+690,2016-07-25,Pam Delicia Milho,13.0,42576,lazer
+691,2016-07-25,e K Minami,9.5,42576,lanche
+692,2016-07-26,Ciop,80.0,42577,outros
+693,2016-07-26,Paulo Silva,12.0,42577,lanche
+694,2016-07-26,Irmaos Gonvalves F,29.04,42577,mercado
+695,2016-07-28,Speedy Conveniencia,8.5,42579,lanche
+696,2016-07-28,Sidnei Marcos Albuquer,40.0,42579,lanche
+697,2016-07-29,Acai Mania,33.3,42580,lazer
+698,2016-07-29,Eucatur 1/10,13.0,42580,viagem
+699,2016-07-29,Eucatur 1/9,10.43,42580,viagem
+700,2016-07-29,Silvestre Conveniencia,4.0,42580,lanche
+701,2016-07-29,Denis,30.0,42580,lanche
+702,2016-07-29,So Pizzas,58.0,42580,delivery
+703,2016-07-30,Mercadopago 2/12,13.67,42581,compra
+704,2016-07-30,Mercadopago 2/12,10.99,42581,compra
+705,2016-08-01,Eucatur 1/10,25.4,42583,viagem
+706,2016-08-01,Recarga Tim,50.0,42583,telefonia
+707,2016-08-01,Big China Comercio de,57.79,42583,delivery
+708,2016-08-02,Recanto Sup Hort,55.77,42584,mercado
+709,2016-08-02,Mc Donalds Av Fco Mto,22.5,42584,junk
+710,2016-08-02,Supermercado Padrao,28.96,42584,mercado
+711,2016-08-03,Mc Donalds Av Fco Mto,36.5,42585,junk
+712,2016-08-03,"Estorno de ""Eucatur""",-10.43,42585,estorno
+713,2016-08-03,Carlos Alberto G Souza,15.0,42585,compra
+714,2016-08-03,Walmart Comercio Eletr 1/8,83.79,42585,compra
+715,2016-08-04,Ke Supimpa,10.0,42586,lanche
+716,2016-08-04,Seg Youse Youse,1.08,42586,outros
+717,2016-08-05,Pagseguro Boacompra 1/3,41.33,42587,lazer
+718,2016-08-05,Panqueoca,50.0,42587,lazer
+719,2016-08-08,Mercadopago 3/12,15.56,42590,compra
+720,2016-08-08,Eucatur 7/10,14.2,42590,viagem
+721,2016-08-08,Walmart Comercio Eletr 2/8,83.73,42590,compra
+722,2016-08-08,Mercadopago Mlivre 6/6,7.97,42590,compra
+723,2016-08-08,Eucatur 2/10,25.4,42590,viagem
+724,2016-08-08,Mercadopago 8/12,6.11,42590,compra
+725,2016-08-08,Pagseguro Boacompra 2/3,41.33,42590,lazer
+726,2016-08-08,Mercadopago 3/12,13.67,42590,compra
+727,2016-08-08,Mercadopago 6/10,6.62,42590,compra
+728,2016-08-08,Mercadopago 9/10,6.22,42590,compra
+729,2016-08-08,Loja do Mecanico 6/8,9.96,42590,compra
+730,2016-08-08,Mercadopago 4/5,5.98,42590,compra
+731,2016-08-08,Mercadopago 6/12,6.91,42590,compra
+732,2016-08-08,Mercadopago 3/12,10.99,42590,compra
+733,2016-08-08,Mercadopago 5/6,7.02,42590,compra
+734,2016-08-08,Mercadopago 9/10,6.23,42590,compra
+735,2016-08-08,Mercadopago Mlivre 5/6,7.91,42590,compra
+736,2016-08-08,Mercadopago 7/12,16.33,42590,compra
+737,2016-08-08,Mercadopago 6/9,6.36,42590,compra
+738,2016-08-08,Eucatur 2/10,13.0,42590,viagem
+739,2016-08-08,Mercadopago 3/10,6.58,42590,compra
+740,2016-08-09,Supermercado Padrao,54.88,42591,mercado
+741,2016-08-09,Ifood Com,38.9,42591,delivery
+742,2016-08-10,Fenix Com Estudantil,20.0,42592,compra
+743,2016-08-11,Walmart Comercio Eletr 1/3,64.51,42593,compra
+744,2016-08-11,Supermercado Padrao,100.36,42593,mercado
+745,2016-08-12,Mercadopago 1/4,8.47,42594,compra
+746,2016-08-15,Antonio da Paixao,6.0,42597,desconhecido
+747,2016-08-15,Carrefour Ere,94.74,42597,mercado
+748,2016-08-15,Pagamento recebido,-1393.13,42597,pagamento
+749,2016-08-15,Supermercado Padrao,61.17,42597,mercado
+750,2016-08-15,Fufu Lia,4.5,42597,lanche
+751,2016-08-15,Antonio da Paixao,6.0,42597,desconhecido
+752,2016-08-16,Supermercado Padrao,3.99,42598,mercado
+753,2016-08-17,Ke Supimpa,5.0,42599,lanche
+754,2016-08-18,Mc Donalds Av Fco Mto,34.5,42600,junk
+755,2016-08-19,Urbe Cafe Bar,27.52,42601,lazer
+756,2016-08-22,Kadalora,60.0,42604,delivery
+757,2016-08-22,Saraiva Com 1/3,68.38,42604,compra
+758,2016-08-22,Multicoisas,50.75,42604,material
+759,2016-08-22,Carrefour Ere,47.3,42604,mercado
+760,2016-08-22,Ke Supimpa,7.0,42604,lanche
+761,2016-08-23,Saraiva Com 1/3,35.58,42605,compra
+762,2016-08-23,Carrefour Ere,66.61,42605,mercado
+763,2016-08-24,Supermercado Padrao,68.55,42606,mercado
+764,2016-08-26,Lanchonete da Fisica,9.75,42608,lanche
+765,2016-08-26,Recarga Tim Autom,50.0,42608,telefonia
+766,2016-08-29,Festa Achiropita,8.0,42611,lazer
+767,2016-08-29,Ke Supimpa,8.5,42611,lanche
+768,2016-08-29,Festa Achiropita,6.0,42611,lazer
+769,2016-08-29,Festa Achiropita,12.0,42611,lazer
+770,2016-08-29,Carrefour Ere,13.89,42611,mercado
+771,2016-08-31,Drogasil,26.81,42613,farmacia
+772,2016-09-01,Mc Donalds Av Fco Mto,37.0,42614,junk
+773,2016-09-02,A Barateira,7.0,42615,mercado
+774,2016-09-02,Felipe da Silva Franco,24.0,42615,desconhecido
+775,2016-09-02,Laundry Delux,25.3,42615,lazer
+776,2016-09-02,Droga Raia F21,24.97,42615,farmacia
+777,2016-09-05,Netviagem Reun Paulist,17.87,42618,viagem
+778,2016-09-05,Seg Youse Youse,1.08,42618,outros
+779,2016-09-05,Reunidas Netv 1/3,66.2,42618,viagem
+780,2016-09-05,Carrefour Ere,45.85,42618,mercado
+781,2016-09-08,Mercadopago 7/10,6.62,42621,compra
+782,2016-09-08,Mercadopago 7/9,6.36,42621,compra
+783,2016-09-08,Eucatur 3/10,13.0,42621,viagem
+784,2016-09-08,Mercadopago 4/12,10.99,42621,compra
+785,2016-09-08,Saraiva Com 2/3,68.37,42621,compra
+786,2016-09-08,Mercadopago 7/12,6.91,42621,compra
+787,2016-09-08,Walmart Comercio Eletr 2/3,64.5,42621,compra
+788,2016-09-08,Mercadopago 2/4,8.47,42621,compra
+789,2016-09-08,Mercadopago Mlivre 6/6,7.91,42621,compra
+790,2016-09-08,Mercadopago 10/10,6.23,42621,compra
+791,2016-09-08,Mercadopago 5/5,5.98,42621,compra
+792,2016-09-08,Mercadopago 6/6,7.02,42621,compra
+793,2016-09-08,Walmart Comercio Eletr 3/8,83.73,42621,compra
+794,2016-09-08,Eucatur 3/10,25.4,42621,viagem
+795,2016-09-08,Reunidas Netv 2/3,66.19,42621,viagem
+796,2016-09-08,Mercadopago 10/10,6.22,42621,compra
+797,2016-09-08,Mercadopago 4/10,6.58,42621,compra
+798,2016-09-08,Eucatur 8/10,14.2,42621,viagem
+799,2016-09-08,Loja do Mecanico 7/8,9.96,42621,compra
+800,2016-09-08,Mercadopago 9/12,6.11,42621,compra
+801,2016-09-08,Mercadopago 4/12,15.56,42621,compra
+802,2016-09-08,Pagseguro Boacompra 3/3,41.33,42621,lazer
+803,2016-09-08,Mercadopago 8/12,16.33,42621,compra
+804,2016-09-08,Saraiva Com 2/3,35.56,42621,compra
+805,2016-09-08,Mercadopago 4/12,13.67,42621,compra
+806,2016-09-09,Esal,26.9,42622,mercado
+807,2016-09-12,Google Play Pomappsdot,5.34,42625,lazer
+808,2016-09-12,Panif Pingo Doce,8.5,42625,lanche
+809,2016-09-13,Lanchonete da Fisica,4.5,42626,lanche
+810,2016-09-13,Perusp,5.0,42626,desconhecido
+811,2016-09-14,Mercadopago Ecommerc 1/3,6.65,42627,compra
+812,2016-09-14,Ke Supimpa,4.0,42627,lanche
+813,2016-09-14,Mercadopago 1/3,7.97,42627,compra
+814,2016-09-15,Pagamento recebido,-1637.01,42628,pagamento
+815,2016-09-15,Pastel Deliver,28.0,42628,delivery
+816,2016-09-16,Ke Supimpa,4.5,42629,lanche
+817,2016-09-16,Nutricap Com Prod Alim,3.75,42629,lanche
+818,2016-09-19,Panificadora Opala,7.0,42632,lanche
+819,2016-09-19,Aixmobil Eleicao,15.0,42632,outros
+820,2016-09-20,Carrefour Ere,105.45,42633,mercado
+821,2016-09-21,Ke Supimpa,4.0,42634,lanche
+822,2016-09-21,Nutricap Com Prod Alim,5.0,42634,lanche
+823,2016-09-22,Lanchonete da Fisica,3.75,42635,lanche
+824,2016-09-22,Ke Supimpa,4.0,42635,lanche
+825,2016-09-23,Cinemark Eldorado,34.0,42636,lazer
+826,2016-09-26,Merc Silva e Barbosa,9.57,42639,mercado
+827,2016-09-26,Pastel Deliver,25.0,42639,delivery
+828,2016-09-26,Pastel Deliver,29.5,42639,delivery
+829,2016-09-26,Google Play Laser Dog,5.1,42639,lazer
+830,2016-09-26,Subway,8.5,42639,junk
+831,2016-09-27,Supermercado Padrao,59.72,42640,mercado
+832,2016-09-28,Lanchonete da Fisica,5.0,42641,lanche
+833,2016-09-29,Pastel Deliver,32.0,42642,delivery
+834,2016-09-29,Recanto Sup Hort,50.47,42642,mercado
+835,2016-09-30,Lanchonete da Fisica,8.75,42643,lanche
+836,2016-09-30,"Estorno de ""Mercadopago Ecommerc""",-6.65,42643,estorno
+837,2016-10-03,Madhu,58.3,42646,lazer
+838,2016-10-03,Mc Donalds Av Fco Mto,13.0,42646,junk
+839,2016-10-03,Habib S Butanta,32.25,42646,junk
+840,2016-10-03,Recarga Tim Autom,50.0,42646,telefonia
+841,2016-10-03,Recanto Sup Hort,18.85,42646,mercado
+842,2016-10-04,"IOF de ""Www Ovh Com""",0.75,42647,outros
+843,2016-10-04,Pizzaria Impor Felicci,25.0,42647,delivery
+844,2016-10-04,Seg Youse Youse,1.08,42647,outros
+845,2016-10-04,Www Ovh Com,11.73,42647,outros
+846,2016-10-06,Lanchonete da Fisica,5.0,42649,lanche
+847,2016-10-07,Granbom,12.0,42650,mercado
+848,2016-10-08,Saraiva Com 3/3,68.37,42651,compra
+849,2016-10-08,Mercadopago 8/12,6.91,42651,compra
+850,2016-10-08,Mercadopago 8/10,6.62,42651,compra
+851,2016-10-08,Reunidas Netv 3/3,66.19,42651,viagem
+852,2016-10-08,Mercadopago 5/12,10.99,42651,compra
+853,2016-10-08,Loja do Mecanico 8/8,9.96,42651,compra
+854,2016-10-08,Mercadopago 9/12,16.33,42651,compra
+855,2016-10-08,Mercadopago 10/12,6.11,42651,compra
+856,2016-10-08,Walmart Comercio Eletr 4/8,83.73,42651,compra
+857,2016-10-08,Eucatur 4/10,25.4,42651,viagem
+858,2016-10-08,Eucatur 9/10,14.2,42651,viagem
+859,2016-10-08,Mercadopago 5/12,13.67,42651,compra
+860,2016-10-08,Mercadopago 3/4,8.47,42651,compra
+861,2016-10-08,Mercadopago 5/12,15.56,42651,compra
+862,2016-10-08,Mercadopago 8/9,6.36,42651,compra
+863,2016-10-08,Mercadopago 2/3,7.96,42651,compra
+864,2016-10-08,Eucatur 4/10,13.0,42651,viagem
+865,2016-10-08,Mercadopago 5/10,6.58,42651,compra
+866,2016-10-08,Saraiva Com 3/3,35.56,42651,compra
+867,2016-10-08,Walmart Comercio Eletr 3/3,64.5,42651,compra
+868,2016-10-10,Supermercado Padrao,24.4,42653,mercado
+869,2016-10-10,Chocolates Liverpool,11.4,42653,lazer
+870,2016-10-11,Carrefour Ere,123.09,42654,mercado
+871,2016-10-13,Recanto Sup Hort,20.74,42656,mercado
+872,2016-10-13,Tolocos,26.0,42656,lazer
+873,2016-10-13,Uber Uber Br Oct12 Rnr,12.34,42656,transporte
+874,2016-10-13,Google Play Martin Sta,3.21,42656,lazer
+875,2016-10-13,Supermercado Padrao,105.68,42656,mercado
+876,2016-10-13,Lanches Bh Ltda,4.9,42656,lazer
+877,2016-10-13,Nova Augusta,59.8,42656,compra
+878,2016-10-14,Edinaldo Espetinhos,12.0,42657,lanche
+879,2016-10-14,Pastel Deliver,22.0,42657,delivery
+880,2016-10-14,Uber Uber Br Oct13 Jaz,11.59,42657,transporte
+881,2016-10-17,Crédito de variação cambial,-0.13,42660,estorno
+882,2016-10-17,Lanchonete da Fisica,4.0,42660,lanche
+883,2016-10-17,Pagamento recebido,-1279.43,42660,pagamento
+884,2016-10-17,Nutricap Com Prod Alim,4.0,42660,lanche
+885,2016-10-20,Hostgator Hosp Sites,39.99,42663,outros
+886,2016-10-20,Silvio Sidnei Bispo do,27.0,42663,delivery
+887,2016-10-21,Ke Supimpa,8.0,42664,lanche
+888,2016-10-24,Carlos Eduardo Rodrigu,25.0,42667,lazer
+889,2016-10-24,Uber Uber Br Oct21 Jd7,13.11,42667,transporte
+890,2016-10-24,Mauricio Vendas,34.0,42667,delivery
+891,2016-10-24,Mc Donalds Av Fco Mto,31.4,42667,junk
+892,2016-10-24,Recarga Tim,30.0,42667,telefonia
+893,2016-10-24,Pagseguro Boacompra 1/3,6.67,42667,lazer
+894,2016-10-25,Pizzaria Delivery,25.0,42668,delivery
+895,2016-10-26,Lanchonete da Fisica,10.0,42669,lanche
+896,2016-10-27,Nutricap Com Prod Alim,6.0,42670,lanche
+897,2016-10-28,Luiza Viana Pereira da,14.0,42671,compra
+898,2016-10-31,Uber Uber Br Oct28 Pso,6.5,42674,transporte
+899,2016-11-01,Www Ovh Com,11.55,42675,outros
+900,2016-11-01,Carrefour Ere,76.1,42675,mercado
+901,2016-11-01,"IOF de ""Www Ovh Com""",0.74,42675,outros
